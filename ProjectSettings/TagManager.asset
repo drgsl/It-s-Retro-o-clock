@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - ScoreText
+  - Tron/Pink/Head
+  - Tron/Pink/Trail
+  - Tron/Cyan/Head
+  - Tron/Cyan/Tail
   layers:
   - Default
   - TransparentFX
@@ -39,6 +43,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3315494645
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

@@ -7,7 +7,7 @@ public class Group : MonoBehaviour
 
     float lastFall = 0;
 
-    bool isValidGridPos()
+    public bool isValidGridPos()
     {
         foreach (Transform child in transform)
         {
@@ -26,7 +26,7 @@ public class Group : MonoBehaviour
     }
 
 
-    void updateGrid()
+    public void updateGrid()
     {
         //remove old children from grid
         for (int y = 0; y < Playfield.h; ++y)
@@ -43,12 +43,24 @@ public class Group : MonoBehaviour
         }
     }
 
+    void mixColors()
+    {
+        Color c = new Color(Random.Range(0f, 1f), Random.Range(0f, 1f), Random.Range(0f, 1f));
+        foreach (SpriteRenderer spriteRenderer in transform.GetComponentsInChildren<SpriteRenderer>())
+        {
+            spriteRenderer.color = c;
+        }
+    }
+
     // Start is called before the first frame update
     void Start()
     {
+
+        mixColors();
+
         if (!isValidGridPos())
         {
-            Debug.Log("Game Over");
+            Debug.Log("Game Over cause by: " + gameObject.transform.name);
             Destroy(gameObject);
         }
     }
@@ -140,6 +152,9 @@ public class Group : MonoBehaviour
 
                 //disable script
                 enabled = false;
+
+                //change Tag
+                //gameObject.tag = "Untagged";
             }
             lastFall = Time.time;
         }
