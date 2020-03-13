@@ -21,7 +21,8 @@ public class HueShifter : MonoBehaviour
             // transition complete
             // assign the target color
             material.color = targetColor;
-            bkgr.color = new Color(1.0f - targetColor.r, 1.0f - targetColor.g, 1.0f - targetColor.b);
+            if (bkgr != null)
+                bkgr.color = new Color(1.0f - targetColor.r, 1.0f - targetColor.g, 1.0f - targetColor.b);
             // start a new transition
             targetColor = new Color(Random.value, Random.value, Random.value);
             timeLeft = maxTime;
@@ -31,7 +32,8 @@ public class HueShifter : MonoBehaviour
             // transition in progress
             // calculate interpolated color
             material.color = Color.Lerp(material.color, targetColor, Time.deltaTime / timeLeft);
-            bkgr.color = new Color(1.0f - material.color.r, 1.0f - material.color.g, 1.0f - material.color.b);
+            if (bkgr != null)
+                bkgr.color = new Color(1.0f - material.color.r, 1.0f - material.color.g, 1.0f - material.color.b);
 
             // update the timer
             timeLeft -= Time.deltaTime;

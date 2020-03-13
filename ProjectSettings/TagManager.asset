@@ -9,6 +9,7 @@ TagManager:
   - Tron/Pink/Trail
   - Tron/Cyan/Head
   - Tron/Cyan/Tail
+  - Pac-Man/PacDot
   layers:
   - Default
   - TransparentFX
