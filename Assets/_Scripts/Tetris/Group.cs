@@ -60,8 +60,10 @@ public class Group : MonoBehaviour
 
         if (!isValidGridPos())
         {
-            Debug.Log("Game Over cause by: " + gameObject.transform.name);
+            //Debug.Log("Game Over cause by: " + gameObject.transform.name);
+            
             Destroy(gameObject);
+        
         }
     }
 
@@ -69,7 +71,7 @@ public class Group : MonoBehaviour
     void Update()
     {
         //Move Left
-        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
         {
             //modify position
             transform.position += new Vector3(-1, 0, 0);
@@ -89,7 +91,7 @@ public class Group : MonoBehaviour
 
 
         //Move Right
-        if (Input.GetKeyDown(KeyCode.RightArrow))
+        if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
         {
             //modify position
             transform.position += new Vector3(1, 0, 0);
@@ -109,7 +111,7 @@ public class Group : MonoBehaviour
 
 
         //Rotate
-        if (Input.GetKeyDown(KeyCode.UpArrow))
+        if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W))
         {
             //Rotate
             transform.Rotate(0, 0, -90);
@@ -128,7 +130,7 @@ public class Group : MonoBehaviour
         }
 
         //Move Downwards and Fall
-        if (Input.GetKeyDown(KeyCode.DownArrow) || Time.time - lastFall >=1)
+        if (Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S) || Time.time - lastFall >=1)
         {
             //Rotate
             transform.position += new Vector3(0, -1, 0);

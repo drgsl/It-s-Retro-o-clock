@@ -10,6 +10,22 @@ TagManager:
   - Tron/Cyan/Head
   - Tron/Cyan/Tail
   - Pac-Man/PacDot
+  - Hidden
+  - NPC/Car
+  - NPC/Pedestrian
+  - Trigger/City/Tetris
+  - Trigger/City/Brick Breaker
+  - Trigger/City/Pac-Man
+  - Trigger/City/Pong
+  - Trigger/City/Snake
+  - Trigger/City/Tron
+  - Trigger/City/Text
+  - Trigger/SnakeDoor
+  - Trigger/Laptop
+  - UI/Level Menu
+  - UI/Pause Icon
+  - UI/Pause Timer
+  - UI/Pause Background
   layers:
   - Default
   - TransparentFX
@@ -21,7 +37,7 @@ TagManager:
   - 
   - PostProcessing
   - Ground
-  - 
+  - RoadMarkers
   - 
   - 
   - 

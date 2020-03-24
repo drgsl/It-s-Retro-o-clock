@@ -5,10 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/_Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/_Scenes/Main Menu.unity
+    guid: c7b545bfaf403ec4e8bff92935cc6d73
   - enabled: 1
     path: Assets/_Scenes/City.unity
     guid: 0dff014fc7a99b7489a905188fb0cdf1
+  - enabled: 1
+    path: Assets/_Scenes/Tetris.unity
+    guid: 79fe3040741fa8d4fb18f6c40a6cbc57
+  - enabled: 1
+    path: Assets/_Scenes/Brick Breaker.unity
+    guid: a486d9c43004172488eef1a991abb50b
+  - enabled: 1
+    path: Assets/_Scenes/Pong.unity
+    guid: eefb2efc4872e3549a8b66b1437c9905
+  - enabled: 1
+    path: Assets/_Scenes/Tron.unity
+    guid: 5c50aae2334ab704c85f2ecb8d52b347
+  - enabled: 1
+    path: Assets/_Scenes/Pac-Man.unity
+    guid: 76f5b73cea077f049933de01f2ee04fb
+  - enabled: 1
+    path: Assets/_Scenes/Snake.unity
+    guid: 5a257085433789946aa88cae0eb431e3
   m_configObjects: {}
