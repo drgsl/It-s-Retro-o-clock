@@ -118,7 +118,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: retro SDF Black on White
   m_EditorClassIdentifier: 
-  hashCode: 103458479
+  hashCode: -1214663538
   material: {fileID: -1293153468923716715}
   materialHashCode: -390906044
   m_Version: 1.1.0

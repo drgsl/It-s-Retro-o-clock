@@ -18,8 +18,8 @@ public class DVDBouncing : MonoBehaviour
     {
         xPos = Random.Range(0f, Playfield.w);
         yPos = Random.Range(2f, Playfield.h);
-        xSpeed = 0.01f; 
-        ySpeed = 0.01f;
+        xSpeed = 0.001f; 
+        ySpeed = 0.001f;
         changeColor();
     }
 

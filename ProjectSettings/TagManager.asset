@@ -26,6 +26,15 @@ TagManager:
   - UI/Pause Icon
   - UI/Pause Timer
   - UI/Pause Background
+  - HIGHSCORES/ingame/Tetris
+  - HIGHSCORES/ingame/Brick Breaker
+  - HIGHSCORES/ingame/Pong
+  - HIGHSCORES/ingame/Tron
+  - HIGHSCORES/ingame/Pac-Man
+  - HIGHSCORES/ingame/Snake
+  - UI/GameOverTetris
+  - UI/WinningScreen
+  - Pac-Man/Ghost
   layers:
   - Default
   - TransparentFX

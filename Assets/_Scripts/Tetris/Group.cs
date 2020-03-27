@@ -60,8 +60,14 @@ public class Group : MonoBehaviour
 
         if (!isValidGridPos())
         {
-            //Debug.Log("Game Over cause by: " + gameObject.transform.name);
-            
+        //Game Over stuff
+            Debug.Log("Game Over cause by: " + gameObject.transform.name);
+            Time.timeScale = 1f;
+            GameObject.FindGameObjectWithTag("UI/GameOverTetris").transform.GetChild(0).gameObject.SetActive(true);
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+            //Game Over stuff
+
             Destroy(gameObject);
         
         }

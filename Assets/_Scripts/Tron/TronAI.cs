@@ -24,13 +24,22 @@ public class TronAI : MonoBehaviour
 
     Vector2 bestOption = new Vector2(-1f, -1f);
 
+
+    GameObject WinningScreen;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         rb.velocity = Vector2.up * speed;
-        spawnWall();
 
         InvokeRepeating("Move", 0f, Difficulty);
+        spawnWall();
+    }
+
+    private void OnEnable()
+    {
+        WinningScreen = GameObject.FindGameObjectWithTag("UI/WinningScreen");
+        WinningScreen.SetActive(false);
     }
 
     void Move()
@@ -62,6 +71,7 @@ public class TronAI : MonoBehaviour
     private void Update()
     {
         rb.velocity = bestOption * speed;
+        //spawnWall();
         fitColliderBetween(wall, lastWallEnd, transform.position);
     }
 
@@ -94,9 +104,13 @@ public class TronAI : MonoBehaviour
         // Not the current wall?
         if (co != wall)
         {
-            print("Player lost:" + name + "Due to: " + co.gameObject);
-            Debug.Break();
-            //Destroy(gameObject);
+            Debug.Log("Player lost:" + name + "Due to: " + co.gameObject);
+            WinningScreen.SetActive(true);//WinningScreen.transform.GetChild(0).gameObject.SetActive(true);
+            TronScoreManager.score += 100f;
+
+            //Debug.Break();
+            //gameObject.SetActive(false);
+            Destroy(gameObject);
         }
     }
 }

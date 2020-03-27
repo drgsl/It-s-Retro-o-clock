@@ -13,9 +13,9 @@ public class Buttons : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene("City");
+        SceneManager.LoadScene("Story");
         // story
-        Cursor.visible = !Cursor.visible;
+        Cursor.visible = false;
     }
 
     public void OpenSettings()
@@ -45,7 +45,7 @@ public class Buttons : MonoBehaviour
         //QuitPopup.SetActive(false);
         //close tv anim
         Application.Quit();
-        UnityEditor.EditorApplication.isPlaying = false;
+        //UnityEditor.EditorApplication.isPlaying = false;
     }
 
 }

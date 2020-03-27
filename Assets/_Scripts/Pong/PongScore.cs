@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using TMPro;
 
 public class PongScore : MonoBehaviour
@@ -17,14 +18,29 @@ public class PongScore : MonoBehaviour
     public TextMeshProUGUI leftScore;
     public TextMeshProUGUI rightScore;
 
+    public GameObject highScore;
+
     public Material mat;
-    public Material bkgr;
+    public SpriteRenderer bkgr;
 
     public Ball ball;
 
     private void Start()
     {
         mat.color = Color.white;
+        GameObject.FindGameObjectWithTag("UI/WinningScreen").SetActive(false);
+
+        leftScore.text = "";
+        rightScore.text = "";
+
+        LeftScore = 0f;
+        RightScore = 0f;
+
+        highScore.SetActive(false);
+
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+
     }
 
     void Update()
@@ -73,6 +89,16 @@ public class PongScore : MonoBehaviour
             Debug.Log("Ball out of bounds");
             ball.restartVelocity();
             restartScore();
+        }
+
+        if (LeftScore >= GlobalScoreManager.Pong && LeftScore >= 1)
+        {
+            GlobalScoreManager.Pong = LeftScore;
+            highScore.SetActive(true);
+        }
+        else
+        {
+            highScore.SetActive(false);
         }
     }
 

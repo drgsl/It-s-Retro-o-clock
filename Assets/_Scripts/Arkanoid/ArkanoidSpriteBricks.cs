@@ -16,8 +16,8 @@ public class ArkanoidSpriteBricks : MonoBehaviour
     Vector3 startPos;
 
     const float Max_Time = 5;
-    const float Half_Time = Max_Time / 2;
-    float timeLeft = Max_Time;
+    //const float Half_Time = Max_Time / 2;
+    //float timeLeft = Max_Time;
 
     string LeftUp = "LeftUp";
     string RightUp = "RightUp";
@@ -29,9 +29,19 @@ public class ArkanoidSpriteBricks : MonoBehaviour
     float maxX = 190;
 
     int stage = 0;
+
+    GameObject winningScreen;
     void Start()
     {
         InvokeRepeating("StartPhase", 2f, .01f); // starting after 2 seconds, repeating every .3 seconds
+        
+        InvokeRepeating("CheckDone", 60f, 1f);
+
+        winningScreen = GameObject.FindGameObjectWithTag("UI/WinningScreen");
+        winningScreen.SetActive(false);
+
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
 
         startPos = transform.GetChild(0).transform.position;
         int ind = 1;
@@ -67,6 +77,15 @@ public class ArkanoidSpriteBricks : MonoBehaviour
             }
         }
     }
+
+    void CheckDone()
+    {
+        if (transform.childCount == 1)
+        {
+            winningScreen.SetActive(true);
+        }
+    }
+
     //private void Update()
     //{
     //    if (timeLeft <= 0)

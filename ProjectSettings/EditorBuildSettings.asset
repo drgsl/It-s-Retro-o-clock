@@ -9,11 +9,14 @@ EditorBuildSettings:
     path: Assets/_Scenes/Main Menu.unity
     guid: c7b545bfaf403ec4e8bff92935cc6d73
   - enabled: 1
+    path: Assets/_Scenes/Story.unity
+    guid: cbc94af57c3336e4181783eba0f25172
+  - enabled: 1
     path: Assets/_Scenes/City.unity
     guid: 0dff014fc7a99b7489a905188fb0cdf1
   - enabled: 1
     path: Assets/_Scenes/Tetris.unity
-    guid: 79fe3040741fa8d4fb18f6c40a6cbc57
+    guid: 666d03f671d1d044faf5c32ed748b903
   - enabled: 1
     path: Assets/_Scenes/Brick Breaker.unity
     guid: a486d9c43004172488eef1a991abb50b

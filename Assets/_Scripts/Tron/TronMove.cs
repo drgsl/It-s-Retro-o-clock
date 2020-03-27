@@ -23,6 +23,7 @@ public class TronMove : MonoBehaviour
         // Initial Velocity
         rb = GetComponent<Rigidbody2D>();
         rb.velocity = Vector2.left * speed;
+        gameObject.SetActive(true);
         spawnWall();
     }
 
@@ -73,8 +74,20 @@ public class TronMove : MonoBehaviour
         // Not the current wall?
         if (co != wall)
         {
-            print("Player lost:" + name + "Due to: " + co.gameObject);
-            Debug.Break();
+            //print("Player lost:" + name + "Due to: " + co.gameObject);
+
+            TronScoreManager.score = 0;
+
+            //Spawn GameOver Menu
+
+            Time.timeScale = 1f;
+            GameObject.FindGameObjectWithTag("UI/GameOverTetris").transform.GetChild(0).gameObject.SetActive(true);
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+
+            gameObject.SetActive(false);
+
+            //Debug.Break();
             //Destroy(gameObject);
         }
     }

@@ -4,6 +4,8 @@ using UnityEngine;
 
 using System.Linq; // because of the list
 
+using TMPro;
+
 public class Snake : MonoBehaviour
 {
 
@@ -18,12 +20,36 @@ public class Snake : MonoBehaviour
     float speed = 1f;
 
     public SnakeSpawnFood spawner;
+
+    GameObject WinningScreen;
+
+    int score = 0;
+
+    public TextMeshProUGUI scoreText;
+    public TextMeshProUGUI highScoreText;
+
+
     // Start is called before the first frame update
     void Start()
     {
-        InvokeRepeating("Move", 0.08f, 0.08f);
+        InvokeRepeating("Move", 0.07f, 0.07f);
+        highScoreText.text = "";
+        scoreText.text = "";
+        if (GlobalScoreManager.Snake < 0)
+        {
+            GlobalScoreManager.Snake = 0f;
+        }
+        highScoreText.text = "HIGHSCORE: " + GlobalScoreManager.Snake;
+
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
     }
 
+    private void OnEnable()
+    {
+        WinningScreen = GameObject.FindGameObjectWithTag("UI/WinningScreen");
+        WinningScreen.SetActive(false);
+    }
 
     private void Update()
     {
@@ -81,11 +107,23 @@ public class Snake : MonoBehaviour
             spawner.SpawnFood();
             // Remove the Food
             Destroy(coll.gameObject);
+
+            score += 1;
+            scoreText.text = "SCORE: " + score;
+            if (score > GlobalScoreManager.Snake)
+            {
+                GlobalScoreManager.Snake = score;
+                highScoreText.text = "HIGHSCORE: " + GlobalScoreManager.Snake;
+            }
         }
         // Collided with Tail or Border
         else
         {
-            Debug.Break();
+            //Debug.Break();
+            Time.timeScale = 1f;
+            GameObject.FindGameObjectWithTag("UI/GameOverTetris").transform.GetChild(0).gameObject.SetActive(true);
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
             // ToDo 'You lose' screen
         }
     }

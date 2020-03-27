@@ -96,6 +96,13 @@ public class LevelTriggers : MonoBehaviour
             gameName = "";
             loadNewScene = false;
         }
+
+        if (other.tag.Equals("Trigger/SnakeDoor"))
+        {
+            targetAnim = null;
+
+            InteractableText.text = "";
+        }
     }
 
 }

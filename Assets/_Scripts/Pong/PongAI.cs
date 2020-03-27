@@ -6,7 +6,7 @@ public class PongAI : MonoBehaviour
 {
     public GameObject ball;
 
-    float speed = 10f;
+    float speed = 9f;
     Vector3 move = Vector3.zero;
     
     Rigidbody2D rb;

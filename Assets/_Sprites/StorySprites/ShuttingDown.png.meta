@@ -1,0 +1,3187 @@
+fileFormatVersion: 2
+guid: 2c1e540e75d33f7499ac75c11f34ddcd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3950732144498209186
+    second: ShuttingDown_0
+  - first:
+      213: 2386330433394219341
+    second: ShuttingDown_1
+  - first:
+      213: 207243658360266597
+    second: ShuttingDown_2
+  - first:
+      213: 7767757703766851859
+    second: ShuttingDown_3
+  - first:
+      213: -4973582041379822955
+    second: ShuttingDown_4
+  - first:
+      213: 7470856607601602445
+    second: ShuttingDown_5
+  - first:
+      213: -1362965616870209999
+    second: ShuttingDown_6
+  - first:
+      213: 2332536688274123657
+    second: ShuttingDown_7
+  - first:
+      213: -2783960392898910809
+    second: ShuttingDown_8
+  - first:
+      213: 2920640038628113564
+    second: ShuttingDown_9
+  - first:
+      213: 7457535072734348324
+    second: ShuttingDown_10
+  - first:
+      213: 6650350142490445048
+    second: ShuttingDown_11
+  - first:
+      213: -2307591190635621526
+    second: ShuttingDown_12
+  - first:
+      213: 9024287544103636505
+    second: ShuttingDown_13
+  - first:
+      213: 2412450194702078249
+    second: ShuttingDown_14
+  - first:
+      213: -3767688727587557280
+    second: ShuttingDown_15
+  - first:
+      213: -2963927029252029104
+    second: ShuttingDown_16
+  - first:
+      213: 5446285495495457132
+    second: ShuttingDown_17
+  - first:
+      213: 3476874350548451897
+    second: ShuttingDown_18
+  - first:
+      213: 4603906750479039416
+    second: ShuttingDown_19
+  - first:
+      213: -6052420984480524097
+    second: ShuttingDown_20
+  - first:
+      213: -3807199441813944182
+    second: ShuttingDown_21
+  - first:
+      213: -6088555862149145524
+    second: ShuttingDown_22
+  - first:
+      213: 836571486110849432
+    second: ShuttingDown_23
+  - first:
+      213: 9324661641785063
+    second: ShuttingDown_24
+  - first:
+      213: -7841930179500474364
+    second: ShuttingDown_25
+  - first:
+      213: 1874795736313703980
+    second: ShuttingDown_26
+  - first:
+      213: -230450098291170994
+    second: ShuttingDown_27
+  - first:
+      213: -9011241910579451646
+    second: ShuttingDown_28
+  - first:
+      213: -7499008581835600078
+    second: ShuttingDown_29
+  - first:
+      213: 2616601553068212747
+    second: ShuttingDown_30
+  - first:
+      213: 1688385568136617659
+    second: ShuttingDown_31
+  - first:
+      213: -5359792865891083557
+    second: ShuttingDown_32
+  - first:
+      213: 4321030689026919693
+    second: ShuttingDown_33
+  - first:
+      213: 6658179368269236975
+    second: ShuttingDown_34
+  - first:
+      213: 743862967156418042
+    second: ShuttingDown_35
+  - first:
+      213: -8689559412422612819
+    second: ShuttingDown_36
+  - first:
+      213: -193200170571816180
+    second: ShuttingDown_37
+  - first:
+      213: -7015214781380544339
+    second: ShuttingDown_38
+  - first:
+      213: 8819797337527951931
+    second: ShuttingDown_39
+  - first:
+      213: -3843571736198410804
+    second: ShuttingDown_40
+  - first:
+      213: 6585462780631242598
+    second: ShuttingDown_41
+  - first:
+      213: 7836474763973894550
+    second: ShuttingDown_42
+  - first:
+      213: -7580929268654880579
+    second: ShuttingDown_43
+  - first:
+      213: -7395419166724401909
+    second: ShuttingDown_44
+  - first:
+      213: -1090959453705404756
+    second: ShuttingDown_45
+  - first:
+      213: -4373924371259134971
+    second: ShuttingDown_46
+  - first:
+      213: -9032592412927323454
+    second: ShuttingDown_47
+  - first:
+      213: -5287762939629995559
+    second: ShuttingDown_48
+  - first:
+      213: -7669361451640220559
+    second: ShuttingDown_49
+  - first:
+      213: -7671965011554447105
+    second: ShuttingDown_50
+  - first:
+      213: 4640717483369405608
+    second: ShuttingDown_51
+  - first:
+      213: 5665058153901151485
+    second: ShuttingDown_52
+  - first:
+      213: -6088996623089557772
+    second: ShuttingDown_53
+  - first:
+      213: 5716623084904558732
+    second: ShuttingDown_54
+  - first:
+      213: 3261838104578624585
+    second: ShuttingDown_55
+  - first:
+      213: -6817815937351094896
+    second: ShuttingDown_56
+  - first:
+      213: -4340625957725132710
+    second: ShuttingDown_57
+  - first:
+      213: 2235082531866332992
+    second: ShuttingDown_58
+  - first:
+      213: -4537477755071985983
+    second: ShuttingDown_59
+  - first:
+      213: 6183870966720675039
+    second: ShuttingDown_60
+  - first:
+      213: -1848512003920676085
+    second: ShuttingDown_61
+  - first:
+      213: -2537826422051408166
+    second: ShuttingDown_62
+  - first:
+      213: 1269323704670253224
+    second: ShuttingDown_63
+  - first:
+      213: 2406710132177065774
+    second: ShuttingDown_64
+  - first:
+      213: 4474017652941164031
+    second: ShuttingDown_65
+  - first:
+      213: 4039912783066182086
+    second: ShuttingDown_66
+  - first:
+      213: 2007957118361868491
+    second: ShuttingDown_67
+  - first:
+      213: -5098837883081356286
+    second: ShuttingDown_68
+  - first:
+      213: -1141983404283653250
+    second: ShuttingDown_69
+  - first:
+      213: -4251366261816012825
+    second: ShuttingDown_70
+  - first:
+      213: -7185097382250705458
+    second: ShuttingDown_71
+  - first:
+      213: -7359891246546355630
+    second: ShuttingDown_72
+  - first:
+      213: 3383198331867800594
+    second: ShuttingDown_73
+  - first:
+      213: -5312440822745774420
+    second: ShuttingDown_74
+  - first:
+      213: 2263594373970965539
+    second: ShuttingDown_75
+  - first:
+      213: -6005165044673499020
+    second: ShuttingDown_76
+  - first:
+      213: -3115592535909647655
+    second: ShuttingDown_77
+  - first:
+      213: 9222748134272579560
+    second: ShuttingDown_78
+  - first:
+      213: 72556063220265005
+    second: ShuttingDown_79
+  - first:
+      213: 6348498634557016537
+    second: ShuttingDown_80
+  - first:
+      213: 8327262212970318699
+    second: ShuttingDown_81
+  - first:
+      213: 4042931400589113186
+    second: ShuttingDown_82
+  - first:
+      213: 5502221486592543467
+    second: ShuttingDown_83
+  - first:
+      213: 7331320987790810217
+    second: ShuttingDown_84
+  - first:
+      213: -3758480370435660539
+    second: ShuttingDown_85
+  - first:
+      213: -254646068630976243
+    second: ShuttingDown_86
+  - first:
+      213: 6763225087698207169
+    second: ShuttingDown_87
+  - first:
+      213: -6663238700650646773
+    second: ShuttingDown_88
+  - first:
+      213: -6063958006495909333
+    second: ShuttingDown_89
+  - first:
+      213: -6399120831848541213
+    second: ShuttingDown_90
+  - first:
+      213: -1873104831804251824
+    second: ShuttingDown_91
+  - first:
+      213: 3377014513736139869
+    second: ShuttingDown_92
+  - first:
+      213: -4936146213725573009
+    second: ShuttingDown_93
+  - first:
+      213: 4424802280050339120
+    second: ShuttingDown_94
+  - first:
+      213: -2751132348240356248
+    second: ShuttingDown_95
+  - first:
+      213: -1178746101298936352
+    second: ShuttingDown_96
+  - first:
+      213: -1123877637214061593
+    second: ShuttingDown_97
+  - first:
+      213: -2745807992656376961
+    second: ShuttingDown_98
+  - first:
+      213: -1820097081233535301
+    second: ShuttingDown_99
+  - first:
+      213: 4300824111423112435
+    second: ShuttingDown_100
+  - first:
+      213: 9084307836314563017
+    second: ShuttingDown_101
+  - first:
+      213: -3168289528529909079
+    second: ShuttingDown_102
+  - first:
+      213: -865753925220111359
+    second: ShuttingDown_103
+  - first:
+      213: 3066484439124257377
+    second: ShuttingDown_104
+  - first:
+      213: 4221817686173074297
+    second: ShuttingDown_105
+  - first:
+      213: 189760416175350009
+    second: ShuttingDown_106
+  - first:
+      213: 1191605320438022814
+    second: ShuttingDown_107
+  - first:
+      213: 6347882546316824777
+    second: ShuttingDown_108
+  - first:
+      213: 5185260457489302782
+    second: ShuttingDown_109
+  - first:
+      213: -578843136798145671
+    second: ShuttingDown_110
+  - first:
+      213: 5529855263143021933
+    second: ShuttingDown_111
+  - first:
+      213: -5538410499105433327
+    second: ShuttingDown_112
+  - first:
+      213: -8027541107735905927
+    second: ShuttingDown_113
+  - first:
+      213: 4386010957030172293
+    second: ShuttingDown_114
+  - first:
+      213: -2324960106013410165
+    second: ShuttingDown_115
+  - first:
+      213: -6667505057148104067
+    second: ShuttingDown_116
+  - first:
+      213: 8155789158860558452
+    second: ShuttingDown_117
+  - first:
+      213: -4484047755768271009
+    second: ShuttingDown_118
+  - first:
+      213: 8632176350834898732
+    second: ShuttingDown_119
+  - first:
+      213: -7289376922437233800
+    second: ShuttingDown_120
+  - first:
+      213: -4773367704969711353
+    second: ShuttingDown_121
+  - first:
+      213: 3823050780280924973
+    second: ShuttingDown_122
+  - first:
+      213: -3677804797551318282
+    second: ShuttingDown_123
+  - first:
+      213: -4990969307225016216
+    second: ShuttingDown_124
+  - first:
+      213: 3148257638422348876
+    second: ShuttingDown_125
+  - first:
+      213: -7960541838888192803
+    second: ShuttingDown_126
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShuttingDown_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6550
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab1bdbe6166d414d84e3c77a519fb3b
+      internalID: 3950732144498209186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_1
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 6550
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcd64cb587df114a987cb159d929c25
+      internalID: 2386330433394219341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_2
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 6550
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8475ce200f36e64c8d57b0c7a1cd488
+      internalID: 207243658360266597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_3
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 6550
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac45b87391c2c2d49a02865c8dc6467f
+      internalID: 7767757703766851859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_4
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 6550
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ded995417dbe514b8749c18aaba3ee3
+      internalID: -4973582041379822955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6288
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1710e5842796a4bacf7b5cafaa2af2
+      internalID: 7470856607601602445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 6288
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c297900fead58704ea093621f8b4444a
+      internalID: -1362965616870209999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_7
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 6288
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d313df6b5b7f41542bbba61c4eb2e852
+      internalID: 2332536688274123657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_8
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 6288
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ab422eab9d65c43a09ba1411ef4c91
+      internalID: -2783960392898910809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_9
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 6288
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8139dd20d8aab714e874e5afe0ae5667
+      internalID: 2920640038628113564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6026
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ce3697419eb7644b669f8af6ab64d2
+      internalID: 7457535072734348324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_11
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 6026
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb4fe4369d2b5844aa47a3ce222ab18
+      internalID: 6650350142490445048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_12
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 6026
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710f45370c1cca64aaee0af34b656162
+      internalID: -2307591190635621526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_13
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 6026
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716404a151e31cd44adc52e737303342
+      internalID: 9024287544103636505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_14
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 6026
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b04f4b0b7cec404a92b01863665310e
+      internalID: 2412450194702078249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5764
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e686cb622fe3493439bb65bd3ff1c65c
+      internalID: -3767688727587557280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_16
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 5764
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03df590bd7912a428ad96c6775af857
+      internalID: -2963927029252029104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_17
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 5764
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcc8551818899343a21dac4534f68b8
+      internalID: 5446285495495457132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_18
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 5764
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26442704a7112241832ff05f0b1a814
+      internalID: 3476874350548451897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_19
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 5764
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb21f768704f324184ca3bd39a67748
+      internalID: 4603906750479039416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5502
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c23d6c046fbcdc489dab96eaf404cd5
+      internalID: -6052420984480524097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_21
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 5502
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bb2a3d7924db74ba7807871716130d
+      internalID: -3807199441813944182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_22
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 5502
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c62771a8ea2c5f4a8f7cf3060a368cf
+      internalID: -6088555862149145524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_23
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 5502
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e92d3d1765a8d4cae716585a5ec263
+      internalID: 836571486110849432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_24
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 5502
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce761a031b521874093d13c58c2438b5
+      internalID: 9324661641785063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5240
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f327642939adefb439208824edd2b3d6
+      internalID: -7841930179500474364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_26
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 5240
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28707cc94d1a27c47b9722cf76b7be60
+      internalID: 1874795736313703980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_27
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 5240
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4721c9805fe7854daa909900ea24cbd
+      internalID: -230450098291170994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_28
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 5240
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d28c49796fd394280eb3e83e5ef4aa
+      internalID: -9011241910579451646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_29
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 5240
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862667a25818ced4d90ff3afcbec23de
+      internalID: -7499008581835600078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4978
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17aa409bebc9f6b4aa1cde79d5bbc91e
+      internalID: 2616601553068212747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_31
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4978
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd870d13aa45974bbba4e7514157009
+      internalID: 1688385568136617659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_32
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 4978
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17ec1f8f7d3373478c3eb5868b277dd
+      internalID: -5359792865891083557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_33
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 4978
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b5995d1edfa88418e71528a78dc1ce
+      internalID: 4321030689026919693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_34
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 4978
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80b8b9bfea1d354a9f6d9e604ac5ff8
+      internalID: 6658179368269236975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4716
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b1074b2bf49643a97494a4e6db84f
+      internalID: 743862967156418042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_36
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4716
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac77c15219bff144a8f6168f5da2f545
+      internalID: -8689559412422612819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_37
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 4716
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fffef6e791e6e24ba15b135311bbfc5
+      internalID: -193200170571816180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_38
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 4716
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfde8b147b59c8e459da461c46470d61
+      internalID: -7015214781380544339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_39
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 4716
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3532a26e9934346be1d30a407e3bc1
+      internalID: 8819797337527951931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4454
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41522ab057a38c4181a6cd2e02a8c2c
+      internalID: -3843571736198410804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_41
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4454
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4600091c19f89c84381b279005deaee8
+      internalID: 6585462780631242598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_42
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 4454
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e0b8758793d2458edae66990a7138
+      internalID: 7836474763973894550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_43
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 4454
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342f166f664b31b4090d6690b45be112
+      internalID: -7580929268654880579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_44
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 4454
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433a9d07a4dc9e746b1bf77f86c18bd1
+      internalID: -7395419166724401909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4192
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dd3236fbaf78d489878c0d50eb31e3
+      internalID: -1090959453705404756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_46
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4192
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eae3cfc68ccaaf4ab9c6183f60bce13
+      internalID: -4373924371259134971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_47
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 4192
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f33b87b7843e324aba3e4ee82422cc0
+      internalID: -9032592412927323454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_48
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 4192
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3172535b6e8e5c04ea301eec28d8faa3
+      internalID: -5287762939629995559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_49
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 4192
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a7479246d16634bb0a98ea65575e74
+      internalID: -7669361451640220559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3930
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7771b71aa79d55e46a88d687d55d93aa
+      internalID: -7671965011554447105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_51
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3930
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbbd960fbc0e394499972576adfbaf7
+      internalID: 4640717483369405608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_52
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3930
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b042f481ff51464e984cf278e1e99c9
+      internalID: 5665058153901151485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_53
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3930
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f703f351a408bf441b086a0cb0f9da39
+      internalID: -6088996623089557772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_54
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 3930
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ce06b81b9b15041b827b00269ac261
+      internalID: 5716623084904558732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3668
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842c46da3a1a03744b57ba76e3226a82
+      internalID: 3261838104578624585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_56
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3668
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5058368cc582b1c42ab28e07860ed130
+      internalID: -6817815937351094896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_57
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3668
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03daa1d6cc3af044aa57205779af6215
+      internalID: -4340625957725132710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_58
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3668
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e73bba302bd95439b8a5d0390fe24d
+      internalID: 2235082531866332992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_59
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 3668
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d2fe56beb4ea84882f43285b537fb3
+      internalID: -4537477755071985983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3406
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e096d72ae54493645bccbd58da63ae16
+      internalID: 6183870966720675039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_61
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3406
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176b1a20f1efc92448b18ff52623a0f0
+      internalID: -1848512003920676085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_62
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3406
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694db7d6ff5bd494a9bf2aab1017ab41
+      internalID: -2537826422051408166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_63
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3406
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72690076c65c3d441abb40cbf5fc64c7
+      internalID: 1269323704670253224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_64
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 3406
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727b0ff6ccc0b0a4eabc0b746654707c
+      internalID: 2406710132177065774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3144
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53df0bbb9c30574fb0f905806c2ea33
+      internalID: 4474017652941164031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_66
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3144
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5675a072cf5d144198506f78cee91c5
+      internalID: 4039912783066182086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_67
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3144
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e634db8aa9ab46c4f9e355e4816e05a1
+      internalID: 2007957118361868491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_68
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3144
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3871dbe5712607e4e8430e2b9a1e9055
+      internalID: -5098837883081356286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_69
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 3144
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ea6f037c8554a458b05cb7c8d3ab7b
+      internalID: -1141983404283653250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2882
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f668a8862af5b344aea5b920d6e9b6d
+      internalID: -4251366261816012825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_71
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2882
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195a4833aa1a2584593d28bb185a6e85
+      internalID: -7185097382250705458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_72
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2882
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7aae1eecfda4c48a30bc46a59c7f10
+      internalID: -7359891246546355630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_73
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2882
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c2a5eb17c4dd6449bc0df769a49246
+      internalID: 3383198331867800594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_74
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2882
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2048e2537b688d438702ae474304c6c
+      internalID: -5312440822745774420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2620
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efc1ba19bb430e408dfd223a7916007
+      internalID: 2263594373970965539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_76
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2620
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003fa8a9d4d959c458fbe5f484ceab5e
+      internalID: -6005165044673499020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_77
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2620
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d756ad2d1a4d2674fa785ad8a249ddfa
+      internalID: -3115592535909647655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_78
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2620
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdc3e05ae1ef17419b32eb4292e33e6
+      internalID: 9222748134272579560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_79
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2620
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5083fb325604f4480b7e89505e3c4a
+      internalID: 72556063220265005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2358
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a53a9a6fc8b1a74da91a61b8a4c836c
+      internalID: 6348498634557016537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_81
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2358
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33850236e4d839b4cb33564ed018f693
+      internalID: 8327262212970318699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_82
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2358
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b457fb63612e4a447b9cef782127c01d
+      internalID: 4042931400589113186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_83
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2358
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac39c5b6e9b167469228c29e7b9baf2
+      internalID: 5502221486592543467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_84
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2358
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c78507b6771c545b288bec87349df6
+      internalID: 7331320987790810217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2096
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990df8be07a788d4d825c9f513cb155e
+      internalID: -3758480370435660539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_86
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2096
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e82eec60774dfc4e83281f923180693
+      internalID: -254646068630976243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_87
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2096
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9594f0724e261e4590f17cec44b7ecb
+      internalID: 6763225087698207169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_88
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2096
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761787b296c5ed6409e9ed535a70e835
+      internalID: -6663238700650646773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_89
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2096
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dec6baab4e9824aa3471ec2f498830
+      internalID: -6063958006495909333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1834
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5409c163c06470249bd03b3570cfda0e
+      internalID: -6399120831848541213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_91
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1834
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f96853806e4d79438b0aad017057615
+      internalID: -1873104831804251824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_92
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1834
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71a4a3611ea64f4d956e1e16db5eb70
+      internalID: 3377014513736139869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_93
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1834
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d82b352b1ebda4fb20f16dc9446aae
+      internalID: -4936146213725573009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_94
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1834
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb5569bd1be794b978e6e938e84b7b
+      internalID: 4424802280050339120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1572
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4f618bf8e9f424182a67ca3e450eac
+      internalID: -2751132348240356248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_96
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1572
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de704eb6d7404d94f80a3dcc9a03ec24
+      internalID: -1178746101298936352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_97
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1572
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e9507ca9b3b7d40ad56ada13670d01
+      internalID: -1123877637214061593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_98
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1572
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93690298784ab642804ab55c135a53a
+      internalID: -2745807992656376961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_99
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1572
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070ae3f725492cf40be635e5800865cb
+      internalID: -1820097081233535301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1310
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41390788a746a3840a9156cf5d43d96d
+      internalID: 4300824111423112435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_101
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1310
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07684fe27983bd49a01ed78ea2a5392
+      internalID: 9084307836314563017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_102
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1310
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2831d086caee941ab012665430db5a
+      internalID: -3168289528529909079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_103
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1310
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29bc7e648ea21845a8e6821ab9d40d6
+      internalID: -865753925220111359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_104
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1310
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ca85583caa16d468556beffea109af
+      internalID: 3066484439124257377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1048
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03b5116d847d014486011200f1c4019
+      internalID: 4221817686173074297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_106
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1048
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0872a10e65cdb41a1d94acf18f8bde
+      internalID: 189760416175350009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_107
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1048
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861bac4e565858f42b5c07840bc687c5
+      internalID: 1191605320438022814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_108
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1048
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0344c048051694882c7e4bfe24a81e
+      internalID: 6347882546316824777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_109
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1048
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acae88ce0df9a574d9b206c5e2ce484d
+      internalID: 5185260457489302782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7590e25b0ee1ec41ba8089abc687b25
+      internalID: -578843136798145671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_111
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 786
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede3bfde1f3081e46b74e97f44a420c1
+      internalID: 5529855263143021933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_112
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 786
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab347a9e7d2fb048821f4c3e054628a
+      internalID: -5538410499105433327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_113
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 786
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd30de62b68ab949a2b36a2d2fe3d2e
+      internalID: -8027541107735905927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_114
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 786
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6b8e15dde687e4d86e70c5c049be11
+      internalID: 4386010957030172293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5711fd3bac028c241a847c18e93ba3a8
+      internalID: -2324960106013410165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_116
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 524
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a5dc756f7d3f047af8b26c632acb2e
+      internalID: -6667505057148104067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_117
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 524
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d72c97c589243b438276085c2ca2cdd
+      internalID: 8155789158860558452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_118
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 524
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d422c493ca38a4b980fafefd495ecc
+      internalID: -4484047755768271009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_119
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 524
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906f571a25d1c264d934c8f475be5122
+      internalID: 8632176350834898732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7b96527eb634942b69ca36ebddf2a5
+      internalID: -7289376922437233800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_121
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 262
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2717eb8e1624a12429708db05f01be11
+      internalID: -4773367704969711353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_122
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 262
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682b9f667a604fe4c956fe46fbe3896d
+      internalID: 3823050780280924973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_123
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 262
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f8c290111e02b4bafb07ae50713257
+      internalID: -3677804797551318282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_124
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 262
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71215726e9a1d30459fec0498e7a6fae
+      internalID: -4990969307225016216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617d324bed8af4a4a9cdae49e5f8400d
+      internalID: 3148257638422348876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShuttingDown_126
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 0
+        width: 546
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e673596efe858324983fd985c25dbaee
+      internalID: -7960541838888192803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fe327193269591544bc4cd8b9c263495
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
