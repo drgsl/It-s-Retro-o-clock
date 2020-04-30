@@ -10,8 +10,6 @@ public class SnakeSpawnFood : MonoBehaviour
     Vector2 maxs;
     Vector2 mins;
 
-    float foodSpawnRate = .1f;
-
     float scale = 1f;
 
     void Start()

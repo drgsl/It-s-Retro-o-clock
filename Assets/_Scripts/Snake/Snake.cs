@@ -21,7 +21,7 @@ public class Snake : MonoBehaviour
 
     public SnakeSpawnFood spawner;
 
-    GameObject WinningScreen;
+    //GameObject WinningScreen;
 
     int score = 0;
 
@@ -47,8 +47,9 @@ public class Snake : MonoBehaviour
 
     private void OnEnable()
     {
-        WinningScreen = GameObject.FindGameObjectWithTag("UI/WinningScreen");
-        WinningScreen.SetActive(false);
+        //WinningScreen = GameObject.FindGameObjectWithTag("UI/WinningScreen");
+        //WinningScreen.SetActive(false);
+        LevelMenu.DeactivateWinning();
     }
 
     private void Update()
@@ -124,7 +125,6 @@ public class Snake : MonoBehaviour
             GameObject.FindGameObjectWithTag("UI/GameOverTetris").transform.GetChild(0).gameObject.SetActive(true);
             Cursor.lockState = CursorLockMode.None;
             Cursor.visible = true;
-            // ToDo 'You lose' screen
         }
     }
 }

@@ -28,7 +28,8 @@ public class PongScore : MonoBehaviour
     private void Start()
     {
         mat.color = Color.white;
-        GameObject.FindGameObjectWithTag("UI/WinningScreen").SetActive(false);
+        //GameObject.FindGameObjectWithTag("UI/WinningScreen").SetActive(false);
+        LevelMenu.DeactivateWinning();
 
         leftScore.text = "";
         rightScore.text = "";
@@ -50,13 +51,20 @@ public class PongScore : MonoBehaviour
             //update left score text
             leftScore.text = LeftScore.ToString();
             //Debug.Log(LeftScore);
+            //if (LeftScore >= ColorChangerRate)
+            //{
+            //    Color col = new Color(Random.Range(0f, 1f), Random.Range(0f, 1f), Random.Range(0f, 1f));
+            //    mat.color = col;
+            //    bkgr.color = new Color(1.0f - col.r, 1.0f - col.g, 1.0f - col.b);
+            //}
 
-            if (LeftScore >= ColorChangerRate)
+            if (LeftScore >= ColorChangerRate && RightScore >= ColorChangerRate)
             {
                 Color col = new Color(Random.Range(0f, 1f), Random.Range(0f, 1f), Random.Range(0f, 1f));
                 mat.color = col;
                 bkgr.color = new Color(1.0f - col.r, 1.0f - col.g, 1.0f - col.b);
             }
+
             if (LeftScore == 0)
             {
                 mat.color = Color.white;
@@ -70,12 +78,20 @@ public class PongScore : MonoBehaviour
             rightScore.text = RightScore.ToString();
             //Debug.Log(RightScore);
 
-            if (RightScore >= ColorChangerRate)
+            //if (RightScore >= ColorChangerRate)
+            //{
+            //    Color col = new Color(Random.Range(0f, 1f), Random.Range(0f, 1f), Random.Range(0f, 1f));
+            //    mat.color = col;
+            //    bkgr.color = new Color(1.0f - col.r, 1.0f - col.g, 1.0f - col.b);
+            //}
+
+            if (LeftScore >= ColorChangerRate && RightScore >= ColorChangerRate)
             {
                 Color col = new Color(Random.Range(0f, 1f), Random.Range(0f, 1f), Random.Range(0f, 1f));
                 mat.color = col;
                 bkgr.color = new Color(1.0f - col.r, 1.0f - col.g, 1.0f - col.b);
             }
+
             if (RightScore == 0)
             {
                 mat.color = Color.white;
@@ -84,12 +100,12 @@ public class PongScore : MonoBehaviour
             prevRightScore = RightScore;
         }
 
-        if (ball.isInsideBorder() == false)
-        {
-            Debug.Log("Ball out of bounds");
-            ball.restartVelocity();
-            restartScore();
-        }
+        //if (ball.isInsideBorder() == false)
+        //{
+        //    Debug.Log("Ball out of bounds");
+        //    ball.restartVelocity();
+        //    restartScore();
+        //}
 
         if (LeftScore >= GlobalScoreManager.Pong && LeftScore >= 1)
         {

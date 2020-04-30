@@ -41,8 +41,6 @@ public class StoryTyper : MonoBehaviour
 	int phase = 0;
 
 	int actInd = 0;
-
-	char randomChar = 'G';
 	void Start()
 	{
 		//txt.text = "";
@@ -51,6 +49,7 @@ public class StoryTyper : MonoBehaviour
 		InvokeRepeating("WriteText", 5f, 0.01f); //StartCoroutine("PlayText");
 
 		//GameObject.FindGameObjectWithTag("UI/WinningScreen").SetActive(false);
+		LevelMenu.DeactivateWinning();
 		Cursor.lockState = CursorLockMode.Locked; //Debug.Log(Cursor.lockState);
 		Cursor.visible = false;
 

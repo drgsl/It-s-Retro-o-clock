@@ -16,7 +16,7 @@ public class PacManMove : MonoBehaviour
     public TextMeshProUGUI scoreText;
     public TextMeshProUGUI HighScoreText;
 
-    GameObject WinningScreen;
+    //GameObject WinningScreen;
 
     const int PacDotsCounter = 457;
 
@@ -29,10 +29,11 @@ public class PacManMove : MonoBehaviour
         HighScoreText.text = "HIGHSCORE: " + GlobalScoreManager.PacMan;
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
-        InvokeRepeating("CheckDone", 60f, 1f);
+        InvokeRepeating("CheckDone", 0f, 1f);
 
-        WinningScreen = GameObject.FindGameObjectWithTag("UI/WinningScreen");
-        WinningScreen.SetActive(false);
+        //WinningScreen = GameObject.FindGameObjectWithTag("UI/WinningScreen");
+        //WinningScreen.SetActive(false);
+        LevelMenu.DeactivateWinning();
     }
 
     // Update is called once per frame
@@ -56,10 +57,13 @@ public class PacManMove : MonoBehaviour
 
     void CheckDone()
     {
-
         if (score >= PacDotsCounter)
         {
-            WinningScreen.SetActive(true);
+            LevelMenu.ActivateWinning();
+        }
+        else
+        {
+            LevelMenu.DeactivateWinning();
         }
 
     }

@@ -5,6 +5,7 @@ using UnityEngine;
 public class PongAI : MonoBehaviour
 {
     public GameObject ball;
+    public Ball ballScript;
 
     float speed = 9f;
     Vector3 move = Vector3.zero;
@@ -15,6 +16,7 @@ public class PongAI : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        ballScript = ball.GetComponent<Ball>();
     }
 
     // Update is called once per frame
@@ -38,6 +40,14 @@ public class PongAI : MonoBehaviour
         else
         {
             rb.velocity = Vector2.zero;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.gameObject == ball)
+        {
+            ballScript.restartVelocity();
         }
     }
 }

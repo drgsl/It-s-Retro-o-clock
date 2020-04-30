@@ -16,11 +16,6 @@ public class Ball : MonoBehaviour
 
     Rigidbody2D rb;
 
-    float maxY =  5f;
-    float minY = -5f;
-    float maxX =  9.5f;
-    float minX = -9.5f;
-
     // Start is called before the first frame update
     void Start()
     {
@@ -72,6 +67,16 @@ public class Ball : MonoBehaviour
         }
     }
 
+    private void Update()
+    {
+        if (transform.position.x < -11f || transform.position.x > 11f ||
+            transform.position.y < -6f || transform.position.y > 6f)
+        {
+            restartVelocity();
+        }
+        
+    }
+
     float hitFactor(Vector2 ballPos, Vector2 racketPos, float racketHeight)
     {
         //  1 = at the    top of the racket
@@ -80,15 +85,6 @@ public class Ball : MonoBehaviour
         //
         // -1 = at the bottom of the racket
         return (ballPos.y - racketPos.y) / racketHeight;
-    }
-
-    public bool isInsideBorder()
-    {
-        if (transform.position.x > minX || transform.position.x < maxX
-         || transform.position.y > minY || transform.position.y < maxY)
-            return true;
-        else
-        return false;
     }
 
     public void restartVelocity()

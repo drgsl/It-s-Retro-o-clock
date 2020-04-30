@@ -32,4 +32,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/Snake.unity
     guid: 5a257085433789946aa88cae0eb431e3
+  - enabled: 1
+    path: Assets/_Scenes/Mario Credits.unity
+    guid: 7600b53e18a1cc148ae62008e868b6cb
   m_configObjects: {}

@@ -28,4 +28,8 @@ public class SubtleCameraMovement : MonoBehaviour
         anim.enabled = false;   
     }
 
+    public void EnableAnimator()
+    {
+        anim.enabled = true;
+    }
 }

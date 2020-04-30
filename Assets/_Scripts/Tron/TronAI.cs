@@ -25,7 +25,7 @@ public class TronAI : MonoBehaviour
     Vector2 bestOption = new Vector2(-1f, -1f);
 
 
-    GameObject WinningScreen;
+    //GameObject WinningScreen;
 
     void Start()
     {
@@ -38,8 +38,7 @@ public class TronAI : MonoBehaviour
 
     private void OnEnable()
     {
-        WinningScreen = GameObject.FindGameObjectWithTag("UI/WinningScreen");
-        WinningScreen.SetActive(false);
+        LevelMenu.DeactivateWinning();
     }
 
     void Move()
@@ -105,12 +104,11 @@ public class TronAI : MonoBehaviour
         if (co != wall)
         {
             Debug.Log("Player lost:" + name + "Due to: " + co.gameObject);
-            WinningScreen.SetActive(true);//WinningScreen.transform.GetChild(0).gameObject.SetActive(true);
             TronScoreManager.score += 100f;
-
             //Debug.Break();
             //gameObject.SetActive(false);
             Destroy(gameObject);
+            LevelMenu.ActivateWinning();
         }
     }
 }

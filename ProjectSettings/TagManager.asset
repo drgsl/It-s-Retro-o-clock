@@ -35,6 +35,28 @@ TagManager:
   - UI/GameOverTetris
   - UI/WinningScreen
   - Pac-Man/Ghost
+  - Main/Player
+  - SoundManager
+  - Trigger/Pool
+  - Trigger/Tips/MarioStatue
+  - Trigger/CS/GiveWeapon
+  - Trigger/CS/TakeWeapon
+  - Enemy/Body Collider
+  - Enemy/Head Collider
+  - Portal/Teleportable
+  - Portal/Triggers/Button1
+  - Portal/Triggers/Elevator1
+  - Portal/Triggers/Door1
+  - Portal/Triggers/Finish
+  - Mario/Ground
+  - Mario/Player
+  - Mario/Goomba
+  - Mario/Blocks/Brick1
+  - Mario/Blocks/Question1
+  - Mario/PiranhaPlant
+  - Mario/Blocks/FinalFlag
+  - Mario/EnterCastle
+  - Portal/PortalGun
   layers:
   - Default
   - TransparentFX

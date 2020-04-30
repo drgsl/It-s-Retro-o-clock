@@ -21,6 +21,16 @@ public class BallArkanoid : MonoBehaviour
         restartVelocity();
     }
 
+    private void Update()
+    {
+        if (transform.position.x < -250f || transform.position.x > 250f ||
+            transform.position.y < -500f || transform.position.y > 150f)
+        {
+            restartVelocity();
+        }
+    }
+    
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
        if (collision.gameObject.name == "Racket")

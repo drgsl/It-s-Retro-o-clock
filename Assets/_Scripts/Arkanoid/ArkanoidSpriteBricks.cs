@@ -30,15 +30,16 @@ public class ArkanoidSpriteBricks : MonoBehaviour
 
     int stage = 0;
 
-    GameObject winningScreen;
+    //GameObject winningScreen;
     void Start()
     {
         InvokeRepeating("StartPhase", 2f, .01f); // starting after 2 seconds, repeating every .3 seconds
         
-        InvokeRepeating("CheckDone", 60f, 1f);
+        InvokeRepeating("CheckDone", 0f, 1f);
 
-        winningScreen = GameObject.FindGameObjectWithTag("UI/WinningScreen");
-        winningScreen.SetActive(false);
+        //winningScreen = GameObject.FindGameObjectWithTag("UI/WinningScreen");
+        //winningScreen.SetActive(false);
+        LevelMenu.DeactivateWinning();
 
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
@@ -82,7 +83,11 @@ public class ArkanoidSpriteBricks : MonoBehaviour
     {
         if (transform.childCount == 1)
         {
-            winningScreen.SetActive(true);
+            LevelMenu.ActivateWinning();
+        }
+        else
+        {
+            LevelMenu.DeactivateWinning();
         }
     }
 

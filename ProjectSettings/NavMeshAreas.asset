@@ -14,14 +14,14 @@ NavMeshProjectSettings:
   - name: Road
     cost: 1
   - name: Sidewalk
-    cost: 500
+    cost: 1
   - name: Crosswalk
     cost: 1
   - name: GreenZone
     cost: 100
   - name: RoadMarkings
     cost: 50
-  - name: 
+  - name: Battlefield
     cost: 1
   - name: 
     cost: 1
@@ -73,9 +73,9 @@ NavMeshProjectSettings:
   m_Settings:
   - serializedVersion: 2
     agentTypeID: 0
-    agentRadius: 0.5
+    agentRadius: 0.05
     agentHeight: 2
-    agentSlope: 45
+    agentSlope: 60
     agentClimb: 0.75
     ledgeDropHeight: 0
     maxJumpAcrossDistance: 0

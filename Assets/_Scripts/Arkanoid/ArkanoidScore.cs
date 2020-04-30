@@ -11,7 +11,7 @@ public class ArkanoidScore : MonoBehaviour
 
     public static float newScore = 0f;
     float lastScore = 0f;
-    public static float brickScore = 5f;
+    public static float brickScore = 1f;
     public static float underLevelScore = 50f;
 
     private void Start()

@@ -18,6 +18,11 @@ public class PlayerMovement : MonoBehaviour
     Vector3 velocity;
     bool isGrounded;
 
+    private void Start()
+    {
+        transform.position = LevelLoader.lastPlayerPos;
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -43,6 +48,14 @@ public class PlayerMovement : MonoBehaviour
         velocity.y += gravity * Time.deltaTime;
 
         controller.Move(velocity * Time.deltaTime);
+
+        if (transform.position.y <= -200f)
+        {
+            controller.enabled = false;
+            controller.transform.position = PlayerHealth.RespawnPos;
+            controller.enabled = true;
+        }
+
     }
 
 }
