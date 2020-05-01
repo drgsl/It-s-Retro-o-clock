@@ -3,7 +3,7 @@
 # RETRO O'CLOCK
 
 ## Despre
-[**RETRO O'CLOCK**](https://drive.google.com/open?id=1JCdQDLg_ucRCmLBbpFstIgSHNy3Ry-JH) este un joc care te invită într-o călătorie în timp printre jocurile copilăriei noastre, jocuri care candva ne țineau ore întregi în fața ecranelor. Dacă vreunul dintre aceste jocuri prezentate vă găsește vechi pasiuni vă recomand să îl rejucati in varianta lui oficială și pe platforma pe care a fost publicat.
+[**RETRO O'CLOCK**](https://drive.google.com/open?id=1TTMojPvvvlHgE2aoLw0JYRJnNa0RPzTK) este un joc care te invită într-o călătorie în timp printre jocurile copilăriei noastre, jocuri care candva ne țineau ore întregi în fața ecranelor. Dacă vreunul dintre aceste jocuri prezentate vă găsește vechi pasiuni vă recomand să îl rejucati in varianta lui oficială și pe platforma pe care a fost publicat.
 
 ### Nu a fost dorită o reproducere exactă a jocurilor, fiecare joc este reinterpretat după viziunea developerilor.
 
@@ -13,7 +13,7 @@ Demo-ul jocului este prezent pe canalul nostru de [**Youtube**](https://youtu.be
 
 ## De unde îl pot juca?
 
-De aici: https://drive.google.com/open?id=1JCdQDLg_ucRCmLBbpFstIgSHNy3Ry-JH
+De aici: https://drive.google.com/open?id=1TTMojPvvvlHgE2aoLw0JYRJnNa0RPzTK
 
 
 ## Tehnologii utilizate
@@ -24,7 +24,7 @@ De aici: https://drive.google.com/open?id=1JCdQDLg_ucRCmLBbpFstIgSHNy3Ry-JH
 
 ## Echipa
 
-Jocul [**RETRO O'CLOCK**](https://drive.google.com/open?id=1JCdQDLg_ucRCmLBbpFstIgSHNy3Ry-JH)  a fost creat de către echipa [**Blue Flamingo**](https://www.youtube.com/channel/UCnfmjIer7FwbQN9TNDT4m_Q?view_as=subscriber) în cadrul participării la concursul [**FIICode 2020**](https://fiicode.asii.ro/). Echipa este formată din:
+Jocul [**RETRO O'CLOCK**](https://drive.google.com/open?id=1TTMojPvvvlHgE2aoLw0JYRJnNa0RPzTK)  a fost creat de către echipa [**Blue Flamingo**](https://www.youtube.com/channel/UCnfmjIer7FwbQN9TNDT4m_Q?view_as=subscriber) în cadrul participării la concursul [**FIICode 2020**](https://fiicode.asii.ro/). Echipa este formată din:
 
 * Bobu Dragoș-Andrei
 * Ențuc Maria-Raluca
