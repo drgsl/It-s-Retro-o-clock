@@ -17,8 +17,7 @@ De aici: https://drive.google.com/open?id=1JCdQDLg_ucRCmLBbpFstIgSHNy3Ry-JH
 
 
 ## Tehnologii utilizate
-* Unity
-* C#
+* Unity - C#
 * Photoshop
 * Blender
 * Autodesk SketchBook
