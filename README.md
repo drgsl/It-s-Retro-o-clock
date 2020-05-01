@@ -1,11 +1,15 @@
 <p align="center"><img src="https://github.com/BobuDragos/FiiCode-2020/blob/master/Assets/_Sprites/retro%20o'clock2.png" width="30%" /></p>
 
+# RETRO O'CLOCK
+
 ## Despre
-[**RETRO O'CLOCK**](https://drive.google.com/open?id=1JCdQDLg_ucRCmLBbpFstIgSHNy3Ry-JH) este un joc care îți atrage atenția că trăiești în natură și depinzi de armonia mediului înconjurător. Este cât se poate de evident faptul că stă în puterea noastră să ajutăm la salvarea mediului. Prezentând o problemă ecologică generației tinere sub forma unui joc, ne-am dorit să îi facem să se concentreze asupra ceea ce este cu adevărat important: **Reduce Refolosește Reciclează!**  ♻️
+[**RETRO O'CLOCK**](https://drive.google.com/open?id=1JCdQDLg_ucRCmLBbpFstIgSHNy3Ry-JH) este un joc care te invită într-o călătorie în timp printre jocurile copilăriei noastre, jocuri care candva ne țineau ore întregi în fața ecranelor. Dacă vreunul dintre aceste jocuri prezentate vă găsește vechi pasiuni vă recomand să îl rejucati in varianta lui oficială și pe platforma pe care a fost publicat.
+
+### Nu a fost dorită o reproducere exactă a jocurilor, fiecare joc este reinterpretat după viziunea developerilor.
 
 ## Prezentare Video Joc
 
-Demo-ul cât și trailer-ul jocului sunt prezente pe canalul nostru de [**Youtube**](https://www.youtube.com/channel/UCnfmjIer7FwbQN9TNDT4m_Q?view_as=subscriber)
+Demo-ul jocului este prezent pe canalul nostru de [**Youtube**](https://www.youtube.com/channel/UCnfmjIer7FwbQN9TNDT4m_Q?view_as=subscriber)
 
 ## De unde îl pot juca?
 
@@ -17,6 +21,7 @@ De aici: https://drive.google.com/open?id=1JCdQDLg_ucRCmLBbpFstIgSHNy3Ry-JH
 * C#
 * Photoshop
 * Blender
+* Autodesk SketchBook
 
 ## Echipa
 
