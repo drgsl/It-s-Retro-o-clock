@@ -9,7 +9,7 @@
 
 ## Prezentare Video Joc
 
-Demo-ul jocului este prezent pe canalul nostru de [**Youtube**](https://www.youtube.com/channel/UCnfmjIer7FwbQN9TNDT4m_Q?view_as=subscriber)
+Demo-ul jocului este prezent pe canalul nostru de [**Youtube**](https://youtu.be/ba9x88ixokk)
 
 ## De unde îl pot juca?
 
