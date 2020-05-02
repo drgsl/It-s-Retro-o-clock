@@ -1,0 +1,5444 @@
+fileFormatVersion: 2
+guid: e8003397b8c16a844871c991335db3fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7631445182068257948
+    second: Mario Level_0
+  - first:
+      213: -871095996185280822
+    second: Mario Level_1
+  - first:
+      213: -4037136303011461672
+    second: Mario Level_2
+  - first:
+      213: 3491116501527397716
+    second: Mario Level_3
+  - first:
+      213: -8998693975459195077
+    second: Mario Level_4
+  - first:
+      213: -2772962533141216478
+    second: Mario Level_5
+  - first:
+      213: 6136074786023621606
+    second: Mario Level_6
+  - first:
+      213: -9135216045004830386
+    second: Mario Level_7
+  - first:
+      213: -2735945869293443510
+    second: Mario Level_8
+  - first:
+      213: 8256350684780423076
+    second: Mario Level_9
+  - first:
+      213: -6721176330438773621
+    second: Mario Level_10
+  - first:
+      213: -2027569411357971354
+    second: Mario Level_11
+  - first:
+      213: 6414562317586109001
+    second: Mario Level_12
+  - first:
+      213: 5646261735104771957
+    second: Mario Level_13
+  - first:
+      213: 2850226782027929383
+    second: Mario Level_14
+  - first:
+      213: 6181838810326017474
+    second: Mario Level_15
+  - first:
+      213: 6670727771414536641
+    second: Mario Level_16
+  - first:
+      213: -996519675175828063
+    second: Mario Level_17
+  - first:
+      213: 6360996249717763073
+    second: Mario Level_18
+  - first:
+      213: -4793163102248356118
+    second: Mario Level_19
+  - first:
+      213: 7739179052323555042
+    second: Mario Level_20
+  - first:
+      213: -8080521984812777875
+    second: Mario Level_21
+  - first:
+      213: -2501895743910369880
+    second: Mario Level_22
+  - first:
+      213: 1049690490893426220
+    second: Mario Level_23
+  - first:
+      213: -3489802250265181228
+    second: Mario Level_24
+  - first:
+      213: 5606741411250915256
+    second: Mario Level_25
+  - first:
+      213: -2934803122326701479
+    second: Mario Level_26
+  - first:
+      213: 4584848385667797630
+    second: Mario Level_27
+  - first:
+      213: -4102739585324461677
+    second: Mario Level_28
+  - first:
+      213: -1760192093314613672
+    second: Mario Level_29
+  - first:
+      213: -4269402983441683302
+    second: Mario Level_30
+  - first:
+      213: -4458200200832571166
+    second: Mario Level_31
+  - first:
+      213: 3413745087571242385
+    second: Mario Level_32
+  - first:
+      213: 395717169761984731
+    second: Mario Level_33
+  - first:
+      213: -6700921595111149313
+    second: Mario Level_34
+  - first:
+      213: 8208517097705478756
+    second: Mario Level_35
+  - first:
+      213: -8499923367151199672
+    second: Mario Level_36
+  - first:
+      213: 2191743482882672679
+    second: Mario Level_37
+  - first:
+      213: 5680625938694734257
+    second: Mario Level_38
+  - first:
+      213: 2503417339435564112
+    second: Mario Level_39
+  - first:
+      213: -1988676076625365244
+    second: Mario Level_40
+  - first:
+      213: 1777623930938163398
+    second: Mario Level_41
+  - first:
+      213: -7632927269742784060
+    second: Mario Level_42
+  - first:
+      213: 3331056896661077763
+    second: Mario Level_43
+  - first:
+      213: -9031943301727129515
+    second: Mario Level_44
+  - first:
+      213: -6890165621872866011
+    second: Mario Level_45
+  - first:
+      213: -697162291723826139
+    second: Mario Level_46
+  - first:
+      213: -3519393264614813314
+    second: Mario Level_47
+  - first:
+      213: 3812834967916267900
+    second: Mario Level_48
+  - first:
+      213: 8766714142250236076
+    second: Mario Level_49
+  - first:
+      213: 2617705078703811903
+    second: Mario Level_50
+  - first:
+      213: 2629233536766139707
+    second: Mario Level_51
+  - first:
+      213: 2690694939391408636
+    second: Mario Level_52
+  - first:
+      213: -7464251645218528975
+    second: Mario Level_53
+  - first:
+      213: 3215372463462390201
+    second: Mario Level_54
+  - first:
+      213: -123019848554509400
+    second: Mario Level_55
+  - first:
+      213: -7081039828353685087
+    second: Mario Level_56
+  - first:
+      213: -4947417968584306994
+    second: Mario Level_57
+  - first:
+      213: 3930827878342886860
+    second: Mario Level_58
+  - first:
+      213: 6792621236968313967
+    second: Mario Level_59
+  - first:
+      213: 648645295762987747
+    second: Mario Level_60
+  - first:
+      213: 312278454727710688
+    second: Mario Level_61
+  - first:
+      213: -7524258452121461907
+    second: Mario Level_62
+  - first:
+      213: 5748584121861681645
+    second: Mario Level_63
+  - first:
+      213: -4282203578500484209
+    second: Mario Level_64
+  - first:
+      213: 7182638856296542731
+    second: Mario Level_65
+  - first:
+      213: -1538141752382831488
+    second: Mario Level_66
+  - first:
+      213: 7201357766752881441
+    second: Mario Level_67
+  - first:
+      213: -2248931510154084897
+    second: Mario Level_68
+  - first:
+      213: -7137106508462349577
+    second: Mario Level_69
+  - first:
+      213: -3088457976979049541
+    second: Mario Level_70
+  - first:
+      213: -8050774863211813069
+    second: Mario Level_71
+  - first:
+      213: 4640258251546874927
+    second: Mario Level_72
+  - first:
+      213: 442002076273069855
+    second: Mario Level_73
+  - first:
+      213: -75857462432329651
+    second: Mario Level_74
+  - first:
+      213: 9094189982134309570
+    second: Mario Level_75
+  - first:
+      213: -7052934792566774408
+    second: Mario Level_76
+  - first:
+      213: -7973624392098640306
+    second: Mario Level_77
+  - first:
+      213: -3608165679834517166
+    second: Mario Level_78
+  - first:
+      213: 890501961070131616
+    second: Mario Level_79
+  - first:
+      213: 1375922728180968827
+    second: Mario Level_80
+  - first:
+      213: -4900278341752755287
+    second: Mario Level_81
+  - first:
+      213: -5774657102553544209
+    second: Mario Level_82
+  - first:
+      213: 972713508382089767
+    second: Mario Level_83
+  - first:
+      213: 8146414290077454027
+    second: Mario Level_84
+  - first:
+      213: -206010439458637103
+    second: Mario Level_85
+  - first:
+      213: 3985660483280979077
+    second: Mario Level_86
+  - first:
+      213: 3696954891361545740
+    second: Mario Level_87
+  - first:
+      213: 6773287145222052836
+    second: Mario Level_88
+  - first:
+      213: 6020041502268142417
+    second: Mario Level_89
+  - first:
+      213: -3087259042760499911
+    second: Mario Level_90
+  - first:
+      213: -1138669497316394257
+    second: Mario Level_91
+  - first:
+      213: -1730557536652776403
+    second: Mario Level_92
+  - first:
+      213: -4791495046256662962
+    second: Mario Level_93
+  - first:
+      213: 4658343559146704582
+    second: Mario Level_94
+  - first:
+      213: -9147523544409710902
+    second: Mario Level_95
+  - first:
+      213: 2684820628114083244
+    second: Mario Level_96
+  - first:
+      213: -8396261783978161994
+    second: Mario Level_97
+  - first:
+      213: 2214711912235459942
+    second: Mario Level_98
+  - first:
+      213: 4999297764498433980
+    second: Mario Level_99
+  - first:
+      213: -4744861051638045647
+    second: Mario Level_100
+  - first:
+      213: 8746012552107919471
+    second: Mario Level_101
+  - first:
+      213: 2341868527487996687
+    second: Mario Level_102
+  - first:
+      213: 5355794274825511057
+    second: Mario Level_103
+  - first:
+      213: 1515171245927870301
+    second: Mario Level_104
+  - first:
+      213: 1230286579930806417
+    second: Mario Level_105
+  - first:
+      213: -5837824092007911609
+    second: Mario Level_106
+  - first:
+      213: 5281577891190264328
+    second: Mario Level_107
+  - first:
+      213: -3489544294178688479
+    second: Mario Level_108
+  - first:
+      213: -1614099687860740384
+    second: Mario Level_109
+  - first:
+      213: -2915389564187835272
+    second: Mario Level_110
+  - first:
+      213: 8152217945419343481
+    second: Mario Level_111
+  - first:
+      213: 2186182369614981426
+    second: Mario Level_112
+  - first:
+      213: 2076891053220165880
+    second: Mario Level_113
+  - first:
+      213: -836935702503163310
+    second: Mario Level_114
+  - first:
+      213: -4722716285324599168
+    second: Mario Level_115
+  - first:
+      213: -1491260738143958335
+    second: Mario Level_116
+  - first:
+      213: 2282160933144134539
+    second: Mario Level_117
+  - first:
+      213: 6593038854430607176
+    second: Mario Level_118
+  - first:
+      213: 594461261322612167
+    second: Mario Level_119
+  - first:
+      213: -4942476017829631965
+    second: Mario Level_120
+  - first:
+      213: 6622649046975414568
+    second: Mario Level_121
+  - first:
+      213: -7320941621423305249
+    second: Mario Level_122
+  - first:
+      213: 3479128084709109044
+    second: Mario Level_123
+  - first:
+      213: 6709288129054149399
+    second: Mario Level_124
+  - first:
+      213: 2282093199641928381
+    second: Mario Level_125
+  - first:
+      213: -6959026269154545014
+    second: Mario Level_126
+  - first:
+      213: 6146221196878568524
+    second: Mario Level_127
+  - first:
+      213: 3354086590217733331
+    second: Mario Level_128
+  - first:
+      213: 6238718579807942973
+    second: Mario Level_129
+  - first:
+      213: 2768623027804900115
+    second: Mario Level_130
+  - first:
+      213: -6633964002699189731
+    second: Mario Level_131
+  - first:
+      213: -2622186512797040652
+    second: Mario Level_132
+  - first:
+      213: -3990844511757123173
+    second: Mario Level_133
+  - first:
+      213: -8738066623448349101
+    second: Mario Level_134
+  - first:
+      213: 502349975332278756
+    second: Mario Level_135
+  - first:
+      213: -212234469528822226
+    second: Mario Level_136
+  - first:
+      213: 8960600854495707760
+    second: Mario Level_137
+  - first:
+      213: 340676013509207597
+    second: Mario Level_138
+  - first:
+      213: -1148341639452147287
+    second: Mario Level_139
+  - first:
+      213: -162347527518477472
+    second: Mario Level_140
+  - first:
+      213: -8500503319226544242
+    second: Mario Level_141
+  - first:
+      213: -1435986513361690885
+    second: Mario Level_142
+  - first:
+      213: -2919062156058087175
+    second: Mario Level_143
+  - first:
+      213: 3214038372859901164
+    second: Mario Level_144
+  - first:
+      213: -9001779960080867419
+    second: Mario Level_145
+  - first:
+      213: 4160656172989891129
+    second: Mario Level_146
+  - first:
+      213: 4436911278911552422
+    second: Mario Level_147
+  - first:
+      213: 8288742364922668442
+    second: Mario Level_148
+  - first:
+      213: 1606164025055420999
+    second: Mario Level_149
+  - first:
+      213: -6665587075520586596
+    second: Mario Level_150
+  - first:
+      213: -3029469256358803982
+    second: Mario Level_151
+  - first:
+      213: 6536971663524195898
+    second: Mario Level_152
+  - first:
+      213: -2324739700171997624
+    second: Mario Level_153
+  - first:
+      213: 7888885985668174675
+    second: Mario Level_154
+  - first:
+      213: -2060302083935462787
+    second: Mario Level_155
+  - first:
+      213: 2626372446755987445
+    second: Mario Level_156
+  - first:
+      213: -3893786670139634795
+    second: Mario Level_157
+  - first:
+      213: 403810951058049188
+    second: Mario Level_158
+  - first:
+      213: -2311108024243148601
+    second: Mario Level_159
+  - first:
+      213: 7811946722229490675
+    second: Mario Level_160
+  - first:
+      213: 7858212410820404995
+    second: Mario Level_161
+  - first:
+      213: -4882350827764629871
+    second: Mario Level_162
+  - first:
+      213: 6929819697627394055
+    second: Mario Level_163
+  - first:
+      213: -2777795946594726263
+    second: Mario Level_164
+  - first:
+      213: 6245142405483401773
+    second: Mario Level_165
+  - first:
+      213: 2029598363221902943
+    second: Mario Level_166
+  - first:
+      213: 2724841660922220863
+    second: Mario Level_167
+  - first:
+      213: -8780329235466472099
+    second: Mario Level_168
+  - first:
+      213: 4378419080044703325
+    second: Mario Level_169
+  - first:
+      213: 7080672811712126567
+    second: Mario Level_170
+  - first:
+      213: -1817395779887057930
+    second: Mario Level_171
+  - first:
+      213: -123636735539285394
+    second: Mario Level_172
+  - first:
+      213: -6289812751196872929
+    second: Mario Level_173
+  - first:
+      213: -8747491657324365023
+    second: Mario Level_174
+  - first:
+      213: 6311859938595919528
+    second: Mario Level_175
+  - first:
+      213: -4282041704839996977
+    second: Mario Level_176
+  - first:
+      213: -4278245973191791466
+    second: Mario Level_177
+  - first:
+      213: -1200950326401291034
+    second: Mario Level_178
+  - first:
+      213: -3471466957360917932
+    second: Mario Level_179
+  - first:
+      213: -2684380446366022316
+    second: Mario Level_180
+  - first:
+      213: 919169445878895004
+    second: Mario Level_181
+  - first:
+      213: -2004976166658860066
+    second: Mario Level_182
+  - first:
+      213: -5842091121219069765
+    second: Mario Level_183
+  - first:
+      213: -8985586520274761755
+    second: Mario Level_184
+  - first:
+      213: -9062999414615742080
+    second: Mario Level_185
+  - first:
+      213: -7202407660981407589
+    second: Mario Level_186
+  - first:
+      213: 7682236316205519886
+    second: Mario Level_187
+  - first:
+      213: 2922552137466704551
+    second: Mario Level_188
+  - first:
+      213: 8915673810568258434
+    second: Mario Level_189
+  - first:
+      213: -9024075277697305047
+    second: Mario Level_190
+  - first:
+      213: 2974854353578450465
+    second: Mario Level_191
+  - first:
+      213: 1026090333430350782
+    second: Mario Level_192
+  - first:
+      213: 3042073094070281945
+    second: Mario Level_193
+  - first:
+      213: -8879367207785653925
+    second: Mario Level_194
+  - first:
+      213: -6576596629794571583
+    second: Mario Level_195
+  - first:
+      213: -4620847697580805007
+    second: Mario Level_196
+  - first:
+      213: -6507180619670062955
+    second: Mario Level_197
+  - first:
+      213: -6591669642445523195
+    second: Mario Level_198
+  - first:
+      213: 8322163539293611235
+    second: Mario Level_199
+  - first:
+      213: 4950733575238008978
+    second: Mario Level_200
+  - first:
+      213: 3762178414230191717
+    second: Mario Level_201
+  - first:
+      213: 6950284934901718705
+    second: Mario Level_202
+  - first:
+      213: -3040109620407216548
+    second: Mario Level_203
+  - first:
+      213: -5941164593752710201
+    second: Mario Level_204
+  - first:
+      213: -8734422949790470448
+    second: Mario Level_205
+  - first:
+      213: -1002995027140990175
+    second: Mario Level_206
+  - first:
+      213: 8427881612838119345
+    second: Mario Level_207
+  - first:
+      213: -8100412582392029462
+    second: Mario Level_208
+  - first:
+      213: 4358473155198228448
+    second: Mario Level_209
+  - first:
+      213: -8753245439175662826
+    second: Mario Level_210
+  - first:
+      213: -352233755117167977
+    second: Mario Level_211
+  - first:
+      213: 7159335142074215875
+    second: Mario Level_212
+  - first:
+      213: -5895932699454869727
+    second: Mario Level_213
+  - first:
+      213: -8555125124811895483
+    second: Mario Level_214
+  - first:
+      213: -7793827501190581963
+    second: Mario Level_215
+  - first:
+      213: 1534629731527025481
+    second: Mario Level_216
+  - first:
+      213: 240247056392447728
+    second: Mario Level_217
+  - first:
+      213: -708405231724493155
+    second: Mario Level_218
+  - first:
+      213: 6678845782044522079
+    second: Mario Level_219
+  - first:
+      213: -4425041064685348861
+    second: Mario Level_220
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mario Level_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670e60099c8777c499fd2a1c15939413
+      internalID: -7631445182068257948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 658
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691f20cbef61aa641a2139f7f2f7fe42
+      internalID: -871095996185280822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 658
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae051364df97694187167537f40bf0b
+      internalID: -4037136303011461672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 658
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcf90765b8b16c4db4781b66385e684
+      internalID: 3491116501527397716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 657
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2484cfa811085914785f3f43ab510a5c
+      internalID: -8998693975459195077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 657
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2532ccca6dc340d478468c0dc098d597
+      internalID: -2772962533141216478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 669
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ee65a2a260db64092f6e601b3443fd
+      internalID: 6136074786023621606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 666
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807eb22866809d64a938a65683dc60c6
+      internalID: -9135216045004830386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 666
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefa7acdcdd429243937f686223b4eb0
+      internalID: -2735945869293443510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 666
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a8014cdf09e474cb89f2fba0d26c80
+      internalID: 8256350684780423076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 667
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b254cbf129e54cf43b31b158cb4d5d30
+      internalID: -6721176330438773621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_11
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 667
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfa6f048ccd14f4bbb11ab18782f900
+      internalID: -2027569411357971354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 667
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2336a3e7b538041b2b423ba4e94630
+      internalID: 6414562317586109001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 665
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d0fc399fd53cd46afdd24b9bf9f0ce
+      internalID: 5646261735104771957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 665
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd77e7055e4c5c42af7705df136ac63
+      internalID: 2850226782027929383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_15
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 665
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06564110b9ab7a4dbf0162c866906a4
+      internalID: 6181838810326017474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 665
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc836ae487b113a4cb90ed5cbc0312c6
+      internalID: 6670727771414536641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_17
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 675
+        width: 254
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb3376397298964aa6e1692a7b2e14b
+      internalID: -996519675175828063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 612
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250b94178e33ad64c89fdd6f10532c47
+      internalID: 6360996249717763073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 612
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237c16dbd81f0b74db710af0062f9277
+      internalID: -4793163102248356118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 612
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7d41da98d3e014c972376f16ef9ac4
+      internalID: 7739179052323555042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_21
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 581
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd7c6969c5589940958a884f6946acf
+      internalID: -8080521984812777875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_22
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 581
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35a497ef0996314a860e230f30810ff
+      internalID: -2501895743910369880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 580
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d6c9173991d7543a30e5ae3bf610dc
+      internalID: 1049690490893426220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 607
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be2b5d948a88e04db584a637f310b87
+      internalID: -3489802250265181228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_25
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 607
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b4869fecb5cb7489ef6f320f3d29da
+      internalID: 5606741411250915256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 608
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b11a6661a0e746a64ecdbc293e711
+      internalID: -2934803122326701479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_27
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 609
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7e03fec1f90c34d9cbdfb28d914839
+      internalID: 4584848385667797630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_28
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 606
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de147c26772201841a26d63ae4676a34
+      internalID: -4102739585324461677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_29
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 606
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f7a3990d733684db5b64fc456e40c4
+      internalID: -1760192093314613672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_30
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 616
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7244b9313ef204fbee69d6e5ab4c55
+      internalID: -4269402983441683302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_31
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 616
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af226aa875c4b964199c27465ccf9e7f
+      internalID: -4458200200832571166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_32
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 616
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84201b95f5934843b7cd4cc9530e759
+      internalID: 3413745087571242385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_33
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 632
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e2fa2e1b20f7b4f909bab716f079c7
+      internalID: 395717169761984731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_34
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 621
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a674cc948b91994882fa2e9a368a097
+      internalID: -6700921595111149313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_35
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 552
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d343f1760b7f9f74f87402f7af33ef91
+      internalID: 8208517097705478756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_36
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 552
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a669adf565b6864ca22de97ea7fcd2a
+      internalID: -8499923367151199672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_37
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 572
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad9bc6f36e5cef4c8f699e47487706c
+      internalID: 2191743482882672679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_38
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 572
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c5b615c8d7dd94aa832afd0562f60e
+      internalID: 5680625938694734257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_39
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 597
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78bb4c4471efde4aac6156d1131a75c
+      internalID: 2503417339435564112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_40
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 591
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd737fa14424c94e9c2914aae94ad6d
+      internalID: -1988676076625365244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_41
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 597
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1baf7e4a352bea48ae671874cbc7c9c
+      internalID: 1777623930938163398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 544
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c99bb3fe688334dbba5c674aa565ca
+      internalID: -7632927269742784060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 544
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d74c75d14d52e409fb100d553e798b
+      internalID: 3331056896661077763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_44
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 522
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cc0a8584de72d469bb153cbad13cf5
+      internalID: -9031943301727129515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 522
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaed4f33024c30140bc50c2765bd4409
+      internalID: -6890165621872866011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_46
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 522
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af67b67bd95f5d34683a639836a03335
+      internalID: -697162291723826139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_47
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 522
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af7c364410a73544aa33edd475a1876
+      internalID: -3519393264614813314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_48
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 534
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f68bc498b40434a8b37bc08959bd0e
+      internalID: 3812834967916267900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_49
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 534
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16ac2826e8b6a04d9e28c608d94e0a1
+      internalID: 8766714142250236076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_50
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5effecbabd4826343b1c5f196b3cab24
+      internalID: 2617705078703811903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_51
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 534
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6700cff31d69ef4fb8c5bc695f786bc
+      internalID: 2629233536766139707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_52
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 532
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc6b2155a61e60459295d2b9a0bd74b
+      internalID: 2690694939391408636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_53
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 533
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4771a1e99b849864db9927b7386434bb
+      internalID: -7464251645218528975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_54
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 553
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ea2f1c32b05be4aa41558e53ff0623
+      internalID: 3215372463462390201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_55
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 552
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3994431c77975384eb86988103ef2d15
+      internalID: -123019848554509400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_56
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 552
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bddfb7023107d44bd751846d0a36bb
+      internalID: -7081039828353685087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_57
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 559
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a6135c669eace4fa806852aa64e597
+      internalID: -4947417968584306994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 495
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9ce80409ddd584b8776edd37fc7e14
+      internalID: 3930827878342886860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_59
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 495
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46176218ea295e34cadbed9567485f6d
+      internalID: 6792621236968313967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_60
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 495
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d4f2dabf4d7ed4d8326948c3b9b70b
+      internalID: 648645295762987747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_61
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 470
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29370cf8b807189458fb80975ba31f61
+      internalID: 312278454727710688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 470
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665bbeaa706227f458bbbd4cf6a313a1
+      internalID: -7524258452121461907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_63
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 469
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb4250206c5abc40bb93e50357dcda1
+      internalID: 5748584121861681645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_64
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 470
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f41fdd3b12d3e4e81922f156dbc48e
+      internalID: -4282203578500484209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_65
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 464
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f415104bb1227a40ae56eab14350738
+      internalID: 7182638856296542731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_66
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 508
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d50e957b985594da2b465f2dbfaf2a
+      internalID: -1538141752382831488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_67
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 508
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c18581b5ac844db113f9e521acb6a
+      internalID: 7201357766752881441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_68
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 477
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6e9ad01bde3204fbab82a38020db29
+      internalID: -2248931510154084897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_69
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 518
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eeb9c8ec6164c41bf95e50948e2187
+      internalID: -7137106508462349577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_70
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 515
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90149811a61246a4eb3e719cc8b5a301
+      internalID: -3088457976979049541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_71
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 517
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e804609b3b32c3142b58053b652b9a6f
+      internalID: -8050774863211813069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_72
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 499
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1470601f5ee36143a82779ebfe6e162
+      internalID: 4640258251546874927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_73
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 519
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce58320b2c8b417418a1181c2474ac4d
+      internalID: 442002076273069855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_74
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 514
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754580f6e1c94fd4b90a97ed4bde41b5
+      internalID: -75857462432329651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_75
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 460
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31f206897c4c2040ba51329ec7c9b70
+      internalID: 9094189982134309570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_76
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 467
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b4492966da8954ebcffa14265b78e1
+      internalID: -7052934792566774408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_77
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 467
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8732ed89172fc4880b7076a14a5c81
+      internalID: -7973624392098640306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_78
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 507
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379f319102ef9974ab71e7cbe187437b
+      internalID: -3608165679834517166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_79
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 499
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e3369b2d1c14840b7703b54b4a8b08
+      internalID: 890501961070131616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_80
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 481
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178576f6b364fbe42bb934b09e90fd89
+      internalID: 1375922728180968827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_81
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 484
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb8d9d9a1edf574ba6221ed77796f63
+      internalID: -4900278341752755287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_82
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 482
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be385c46ea083e4cbb7f139453635db
+      internalID: -5774657102553544209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_83
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 475
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395bded4225fa1b4d8abf6f7cb243bd9
+      internalID: 972713508382089767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_84
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 498
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b480332cdc1935489b8261d026f27d9
+      internalID: 8146414290077454027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_85
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 498
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaef8e28663519408d5e9fe408e0c5c
+      internalID: -206010439458637103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_86
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 491
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bf2e96494edbd428ceab744cd53dbd
+      internalID: 3985660483280979077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_87
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 482
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaabc25510ac4d48a46eea2eefa00dc
+      internalID: 3696954891361545740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_88
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 460
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6741e2f38450050479cca08722b2fe27
+      internalID: 6773287145222052836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_89
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 458
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67cc4e2a9f882848899469cc9d8f7cd
+      internalID: 6020041502268142417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 458
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6ea8fb63050214e925e26b19c30b56
+      internalID: -3087259042760499911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_91
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 458
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee24b6a3cf06a840b8145a991fc5f42
+      internalID: -1138669497316394257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_92
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 456
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d985b3f3efe4d84d934d35df6b5e05c
+      internalID: -1730557536652776403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_93
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 483
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67be0ae71594cfa4891f285f48c6d254
+      internalID: -4791495046256662962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_94
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 460
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfcdbca7d900f84f8a8ee33a9aa8921
+      internalID: 4658343559146704582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_95
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 477
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3137e5226996d4fa86c384dd63887b
+      internalID: -9147523544409710902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_96
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 477
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c60848819edc84d8b5ca9ffbfb4b41
+      internalID: 2684820628114083244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_97
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 477
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce59e9239f7a3b4a9b9fa688d95b798
+      internalID: -8396261783978161994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_98
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 460
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1c11cb2e0ef1a42806fbec6f1228be
+      internalID: 2214711912235459942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_99
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 448
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100aea99adb6abd4d9bec5c995b1a14a
+      internalID: 4999297764498433980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_100
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0125e8a5c4e5f8d43b2453ea251e1100
+      internalID: -4744861051638045647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 418
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dfdbe217ac4b04794cb2e7188b728a
+      internalID: 8746012552107919471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_102
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 417
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171d7b1dec3e09744bf1fe66cfef9ccc
+      internalID: 2341868527487996687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_103
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 417
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235b6237258aa74597c8500ca5e25e5
+      internalID: 5355794274825511057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_104
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 417
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e335407e9899dc45ae30c1effa7ab85
+      internalID: 1515171245927870301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_105
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 420
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e20be14dc13da4c977d938fbc215c6
+      internalID: 1230286579930806417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_106
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 420
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64488c5433e0b1c409c959f94ec57bc8
+      internalID: -5837824092007911609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_107
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 420
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1976684eed4dff64da89e265bca759d8
+      internalID: 5281577891190264328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_108
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 422
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e049b7d18b8624fbabde5f25921424
+      internalID: -3489544294178688479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_109
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 423
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f10e5a06e7062449a74db542b726fa
+      internalID: -1614099687860740384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_110
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 425
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf2763ec5af6ed45b75be6a5e1690cc
+      internalID: -2915389564187835272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_111
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 425
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728f643309102fb48bd5cd08aecaa972
+      internalID: 8152217945419343481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_112
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 425
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6e531ae9fa314197e6efde32f1847
+      internalID: 2186182369614981426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_113
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 424
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212336bb4d0effe4183281f3f4209e48
+      internalID: 2076891053220165880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_114
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 423
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66286dd2358c7b4b9c1077fd881c621
+      internalID: -836935702503163310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_115
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 421
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec54d01508098143a14e53db7c86ace
+      internalID: -4722716285324599168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_116
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 421
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d71e148a37eea4489b7cb52b66f4b7f
+      internalID: -1491260738143958335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_117
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 421
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e237d0e7783c07840b7fa653a3141aed
+      internalID: 2282160933144134539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_118
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 421
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c99ee4ac814624f8d692dbc29ba212
+      internalID: 6593038854430607176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_119
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 421
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3fff46e401d0744a365b2d1a21e76e
+      internalID: 594461261322612167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_120
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 421
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2c0a3b8840c554db427d2a09fc5d03
+      internalID: -4942476017829631965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_121
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 404
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfaad8fd5483724ca0c260f904a1602
+      internalID: 6622649046975414568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 326
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c78cc15026e0947bc2d76e9d149023
+      internalID: -7320941621423305249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_123
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 367
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2c80973777b11439209e94adf62815
+      internalID: 3479128084709109044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_124
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 367
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c590800db8224499c9442feda01f9f
+      internalID: 6709288129054149399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_125
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 326
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77ff7dac3540da4fb150fb2e555f4dc
+      internalID: 2282093199641928381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_126
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3ca4de626c0044fb784759e4156be3
+      internalID: -6959026269154545014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_127
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 386
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de56b54ec29bf942b07f2afdffdb471
+      internalID: 6146221196878568524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_128
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 384
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd6e015dcdba0d449d8be049f689459
+      internalID: 3354086590217733331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_129
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 381
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f835e901d5e0c014381a23887b48b6f7
+      internalID: 6238718579807942973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_130
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 380
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357445f179e5d7a41b9bd8788720878e
+      internalID: 2768623027804900115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_131
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 381
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5393a89443c2c149aa2ecbd4130d3d3
+      internalID: -6633964002699189731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_132
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 383
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ca5b66f2b7c884b91c4aa8f093f748
+      internalID: -2622186512797040652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_133
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 382
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167d96283eff1824cbbb46778e484e00
+      internalID: -3990844511757123173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_134
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 382
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d000e0d8f98074fab0495e71f9e840
+      internalID: -8738066623448349101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_135
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 382
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1476492860b61044bee79b6c3d817ef
+      internalID: 502349975332278756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_136
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6163978a60611a34ebdcb41d2bd32e56
+      internalID: -212234469528822226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_137
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa86f02f4e5a5d34e9c567792aab0066
+      internalID: 8960600854495707760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_138
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 370
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec25a12d889cf0b4b8d9271b9ac1a999
+      internalID: 340676013509207597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_139
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 370
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c50bb60553117a46a2daaa25ea7bd08
+      internalID: -1148341639452147287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_140
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 318
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28ba4c3d8b27514f89c7233227ae129
+      internalID: -162347527518477472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_141
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 322
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913729faa3cb19e489a1456acebd6d5d
+      internalID: -8500503319226544242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_142
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 332
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5ae84e9d36ef642a0d1bc6704ab5ee
+      internalID: -1435986513361690885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_143
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 357
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e74dfb86a0b7146a3d8a0d5530b23c
+      internalID: -2919062156058087175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_144
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 332
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc8dad383b08db44909b2c2ca0c5147
+      internalID: 3214038372859901164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_145
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 357
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3429c48d55d28fa419b789d545f542d1
+      internalID: -9001779960080867419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_146
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 345
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b896129e82022d48b6368180aa685d3
+      internalID: 4160656172989891129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_147
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 356
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae07af350eb99d4e999f6629f7fa0da
+      internalID: 4436911278911552422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_148
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 336
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4902eee9dbd985e449d38c7bd84650c1
+      internalID: 8288742364922668442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_149
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 334
+        width: 96
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885478f03f88cfe45b6a1c0b86fea1de
+      internalID: 1606164025055420999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_150
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41d7a6699fbeba4d848dd2ea75e6861
+      internalID: -6665587075520586596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_151
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc2385dda8a54647ba4cecd91547bd6
+      internalID: -3029469256358803982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083706f8caf0f9b41891072e80d159e0
+      internalID: 6536971663524195898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_153
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 339
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea04370ec6de675439f4ae4a7f673b06
+      internalID: -2324739700171997624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_154
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 332
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2065ff8e3a7f86e46a83eebe02d0bbc3
+      internalID: 7888885985668174675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 250
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65170e12a7a33ff4fbafe8f2ea581e15
+      internalID: -2060302083935462787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_156
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 250
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d566c71d02b6b4aa827ec70c2f1eb0
+      internalID: 2626372446755987445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_157
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 278
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad9c672ec67dfa42a43c393cdcf3979
+      internalID: -3893786670139634795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_158
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 278
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b156cfb02907f4ab3afd67c0d147d6
+      internalID: 403810951058049188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_159
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 278
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5002eaa3534614c9b230cc0f00756f
+      internalID: -2311108024243148601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_160
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 281
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a59b8166ebfc4340a69cca004f527d1
+      internalID: 7811946722229490675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_161
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 281
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242b07f1698226742abae67c35858883
+      internalID: 7858212410820404995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_162
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 281
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33ab046d6d342741840453df77c1de1
+      internalID: -4882350827764629871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_163
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 281
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31f81ddaf2f1e8428f44d85a72219d6
+      internalID: 6929819697627394055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_164
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 247
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0e698bc475fb849acc2884a9ae28c1
+      internalID: -2777795946594726263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_165
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 247
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca1e5972652fef4f92fe47845a08315
+      internalID: 6245142405483401773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_166
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 247
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3e6db611c46a04dbffb7da4a085b8c
+      internalID: 2029598363221902943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_167
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 293
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215c1fde71df4944e92d6efec12a0973
+      internalID: 2724841660922220863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_168
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 293
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8fa7d829b7b19449176dc228f42c89
+      internalID: -8780329235466472099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_169
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 293
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e044ba02a14b4aa41a3cb5d81e5d0750
+      internalID: 4378419080044703325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_170
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b80754837e4e34f9cb84f29ab667ce
+      internalID: 7080672811712126567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_171
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e5fed80b2bd22488cf2e2dbc5a8e81
+      internalID: -1817395779887057930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_172
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f767ab42cce8214ab6a93be4d521f95
+      internalID: -123636735539285394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_173
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24578ddd7251cc4ba527c4e3d8ce638
+      internalID: -6289812751196872929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_174
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 268
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d867d5a0877f714c8553b207e25c287
+      internalID: -8747491657324365023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_175
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 295
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244e43b2478229b44894c9b63a8dca27
+      internalID: 6311859938595919528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_176
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 232
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f5224126425ff4ca61c4df9ed8a1ee
+      internalID: -4282041704839996977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_177
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 257
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571f213c02b27e8438f15dda3cf34d6c
+      internalID: -4278245973191791466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_178
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 273
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179d7d61fdc4636448e6cb8aba48f339
+      internalID: -1200950326401291034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_179
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 267
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f607de6da5257cf4a8cdd72862dc7a0d
+      internalID: -3471466957360917932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_180
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 273
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1b252157b5f5d4ea151ebba5eac810
+      internalID: -2684380446366022316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_181
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 202
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170fb8009e3c1004fa671f0d685163e9
+      internalID: 919169445878895004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_182
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 223
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4918ca473f17a684391f82b6004e3c2f
+      internalID: -2004976166658860066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_183
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 213
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a062c4f55078cd499967af9adfd38ee
+      internalID: -5842091121219069765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_184
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 129
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acc87192c0e8e748b4f89fad12a0703
+      internalID: -8985586520274761755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_185
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 239
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d6332f1e1b8544eb4a6ba177cbe791
+      internalID: -9062999414615742080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_186
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 90
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc8389009214e428b57fa74ec3a569
+      internalID: -7202407660981407589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_187
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 103
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126bdd6798786e744a178802236fcd68
+      internalID: 7682236316205519886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_188
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 103
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c2a463bfbe3ec41ad6f86d5d3074e2
+      internalID: 2922552137466704551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_189
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 103
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7edb9e490b494294da453a3cb5ed4692
+      internalID: 8915673810568258434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_190
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 206
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375ca15dbca8f5040951864a855d192e
+      internalID: -9024075277697305047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_191
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 164
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69b3269be7dbf8499dc001b3d264df0
+      internalID: 2974854353578450465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_192
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 141
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45ed79baa55cfd40be695ad34c86b12
+      internalID: 1026090333430350782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_193
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 141
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0a1c17c2d7e624eab8b5f036678126
+      internalID: 3042073094070281945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_194
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 141
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b562db07d4387bf40bb3005656a3fbdf
+      internalID: -8879367207785653925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_195
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 156
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d81430ea6aaf248943c9d8644de705
+      internalID: -6576596629794571583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_196
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 113
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7d54f1a3f52c3439c8e8f70cf1cb0a
+      internalID: -4620847697580805007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_197
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 113
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41119f18f3504945b5582950c1ad2f6
+      internalID: -6507180619670062955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_198
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 112
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945cde1fdf5d1f74db2c3533a35f6922
+      internalID: -6591669642445523195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_199
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 90
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8588409de84e8e049bff0124a28d9fd8
+      internalID: 8322163539293611235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_200
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 94
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d94d161fa867a449b4314d039960bc
+      internalID: 4950733575238008978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_201
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 57
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1292a78fa0629b041a4cfe0bbd50d7f7
+      internalID: 3762178414230191717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_202
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 39
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e39538e531a18743a28a5c018401c8d
+      internalID: 6950284934901718705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_203
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 88
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5267b0f276e0044b97aadda8b309893
+      internalID: -3040109620407216548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_204
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 77
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4d316185622204285f4e2343914581
+      internalID: -5941164593752710201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_205
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 92
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4728e2d3df0e434f99a9c293e600a34
+      internalID: -8734422949790470448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_206
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 92
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085fa834639e2344dbe971ba4edc641f
+      internalID: -1002995027140990175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_207
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 92
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f87be229b4e672459ca8db1fedd848a
+      internalID: 8427881612838119345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_208
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 92
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc6c111843de914ea93281e267fee0e
+      internalID: -8100412582392029462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_209
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 42
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5841fd48c42253a4086607159653babf
+      internalID: 4358473155198228448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_210
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 40
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bcda56225174f4797cd96e950e218e
+      internalID: -8753245439175662826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_211
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 43
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7edd52144304143b8a1619aa8c2c09
+      internalID: -352233755117167977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_212
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 43
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aac08af2bbd0e44caf6b00b2c38e9a9
+      internalID: 7159335142074215875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_213
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 51
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a58aeb1204a7324d9ea11fcd2680c93
+      internalID: -5895932699454869727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_214
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 51
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52ac7d0c5f1ae4429c790910e8cb545
+      internalID: -8555125124811895483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_215
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 51
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abff430288a848940a96736c6a6cb464
+      internalID: -7793827501190581963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_216
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 51
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883e6222d0709d243bf83b4a7f3ae9ab
+      internalID: 1534629731527025481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_217
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 13
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534284049f92154448dbefa95f762859
+      internalID: 240247056392447728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_218
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 13
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4126cfd0c2ed5494ba478d6c5bf5ce2b
+      internalID: -708405231724493155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_219
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 14
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fedaed646e9ee1409d7a33fc7daf8a0
+      internalID: 6678845782044522079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario Level_220
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 39
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b28398129b8264c8802153b26c2f4f
+      internalID: -4425041064685348861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 20115ef361c678e43bb85d44b653c92c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

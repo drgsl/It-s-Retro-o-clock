@@ -1,0 +1,1772 @@
+fileFormatVersion: 2
+guid: 2d6911f18c7b22342b22cae222664562
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5106329403274895950
+    second: OrangePortalSprites_0
+  - first:
+      213: -3762458466463916721
+    second: OrangePortalSprites_1
+  - first:
+      213: 57751878331151141
+    second: OrangePortalSprites_2
+  - first:
+      213: -2695498051920667576
+    second: OrangePortalSprites_3
+  - first:
+      213: -6556401781391310667
+    second: OrangePortalSprites_4
+  - first:
+      213: -5861634913142180090
+    second: OrangePortalSprites_5
+  - first:
+      213: -7524876018484210986
+    second: OrangePortalSprites_6
+  - first:
+      213: -1634663316229909517
+    second: OrangePortalSprites_7
+  - first:
+      213: 6652397410356794226
+    second: OrangePortalSprites_8
+  - first:
+      213: 6023975459077316457
+    second: OrangePortalSprites_9
+  - first:
+      213: 3614458202687456218
+    second: OrangePortalSprites_10
+  - first:
+      213: -8818844720547643090
+    second: OrangePortalSprites_11
+  - first:
+      213: 5753399894408478806
+    second: OrangePortalSprites_12
+  - first:
+      213: 2885389185711170451
+    second: OrangePortalSprites_13
+  - first:
+      213: 11844231093918774
+    second: OrangePortalSprites_14
+  - first:
+      213: -2232296987000137216
+    second: OrangePortalSprites_15
+  - first:
+      213: -1092048429689416274
+    second: OrangePortalSprites_16
+  - first:
+      213: -5860304548908844230
+    second: OrangePortalSprites_17
+  - first:
+      213: 5420256521732202410
+    second: OrangePortalSprites_18
+  - first:
+      213: -6772702538244866352
+    second: OrangePortalSprites_19
+  - first:
+      213: 8053847188890373067
+    second: OrangePortalSprites_20
+  - first:
+      213: -4731960925806386615
+    second: OrangePortalSprites_21
+  - first:
+      213: 1420938345674042668
+    second: OrangePortalSprites_22
+  - first:
+      213: -2725281071701214663
+    second: OrangePortalSprites_23
+  - first:
+      213: 4331819246985121577
+    second: OrangePortalSprites_24
+  - first:
+      213: -2839642553466236242
+    second: OrangePortalSprites_25
+  - first:
+      213: 1635746814743329791
+    second: OrangePortalSprites_26
+  - first:
+      213: 6719696692962383296
+    second: OrangePortalSprites_27
+  - first:
+      213: -5419482921353058166
+    second: OrangePortalSprites_28
+  - first:
+      213: 8915344819011886570
+    second: OrangePortalSprites_29
+  - first:
+      213: -730759877936619493
+    second: OrangePortalSprites_30
+  - first:
+      213: 1602020281032893658
+    second: OrangePortalSprites_31
+  - first:
+      213: 3972372191675109445
+    second: OrangePortalSprites_32
+  - first:
+      213: -6545291693024346113
+    second: OrangePortalSprites_33
+  - first:
+      213: -5329258141051338371
+    second: OrangePortalSprites_34
+  - first:
+      213: 1372446719403679516
+    second: OrangePortalSprites_35
+  - first:
+      213: 3419085240130872737
+    second: OrangePortalSprites_36
+  - first:
+      213: 3952711668555012857
+    second: OrangePortalSprites_37
+  - first:
+      213: 2141150339003889996
+    second: OrangePortalSprites_38
+  - first:
+      213: 5590841920852801163
+    second: OrangePortalSprites_39
+  - first:
+      213: 4961639799108968833
+    second: OrangePortalSprites_40
+  - first:
+      213: -2883576905399690955
+    second: OrangePortalSprites_41
+  - first:
+      213: -7471094433797202129
+    second: OrangePortalSprites_42
+  - first:
+      213: -3330272247588375449
+    second: OrangePortalSprites_43
+  - first:
+      213: -7256901396094681110
+    second: OrangePortalSprites_44
+  - first:
+      213: 1009965018697889039
+    second: OrangePortalSprites_45
+  - first:
+      213: -6322730138428903944
+    second: OrangePortalSprites_46
+  - first:
+      213: -8447237897136799475
+    second: OrangePortalSprites_47
+  - first:
+      213: -419499945525400162
+    second: OrangePortalSprites_48
+  - first:
+      213: 7965008338277101327
+    second: OrangePortalSprites_49
+  - first:
+      213: 8151037097374704818
+    second: OrangePortalSprites_50
+  - first:
+      213: -4710356403912492704
+    second: OrangePortalSprites_51
+  - first:
+      213: 2993926300665154033
+    second: OrangePortalSprites_52
+  - first:
+      213: -5482905016844885905
+    second: OrangePortalSprites_53
+  - first:
+      213: 1198811401723119240
+    second: OrangePortalSprites_54
+  - first:
+      213: 5566689352422646170
+    second: OrangePortalSprites_55
+  - first:
+      213: 3517919793348034578
+    second: OrangePortalSprites_56
+  - first:
+      213: -4769533077926757535
+    second: OrangePortalSprites_57
+  - first:
+      213: 7914953498934323640
+    second: OrangePortalSprites_58
+  - first:
+      213: 923230732523660710
+    second: OrangePortalSprites_59
+  - first:
+      213: 1049043935537429441
+    second: OrangePortalSprites_60
+  - first:
+      213: -4837748766389625723
+    second: OrangePortalSprites_61
+  - first:
+      213: -1571942854086277000
+    second: OrangePortalSprites_62
+  - first:
+      213: -3683003079973846290
+    second: OrangePortalSprites_63
+  - first:
+      213: 1163051006373073026
+    second: OrangePortalSprites_64
+  - first:
+      213: -2141709535789538579
+    second: OrangePortalSprites_65
+  - first:
+      213: 3085421588822133907
+    second: OrangePortalSprites_66
+  - first:
+      213: -9196041668188727755
+    second: OrangePortalSprites_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OrangePortalSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2625
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bddaa3567ca229b0800000000000000
+      internalID: -5106329403274895950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2625
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dd14885ff09cbc0800000000000000
+      internalID: -3762458466463916721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2625
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5233a01070d2dc000800000000000000
+      internalID: 57751878331151141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2625
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cd28a9dcaa79ad0800000000000000
+      internalID: -2695498051920667576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2625
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0ce6f215bf205a0800000000000000
+      internalID: -6556401781391310667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2625
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607f12f4a1a47aea0800000000000000
+      internalID: -5861634913142180090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2625
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d294633125429790800000000000000
+      internalID: -7524876018484210986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2625
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f311ccef528059e0800000000000000
+      internalID: -1634663316229909517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2625
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2739b05e230125c50800000000000000
+      internalID: 6652397410356794226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2250
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f59fd73c5799350800000000000000
+      internalID: 6023975459077316457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2250
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3ceaac592292230800000000000000
+      internalID: 3614458202687456218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2250
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21cd6e637b2d9580800000000000000
+      internalID: -8818844720547643090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_12
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2250
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650ccfc98be28df40800000000000000
+      internalID: 5753399894408478806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_13
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2250
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393611d4d26fa0820800000000000000
+      internalID: 2885389185711170451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_14
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2250
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c9df2f3441a2000800000000000000
+      internalID: 11844231093918774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_15
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2250
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a9ea0b7b94501e0800000000000000
+      internalID: -2232296987000137216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_16
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2250
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5d6d63db348d0f0800000000000000
+      internalID: -1092048429689416274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_17
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2250
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bbeaedf040caea0800000000000000
+      internalID: -5860304548908844230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1875
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf9759b69e983b40800000000000000
+      internalID: 5420256521732202410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1875
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de378ebce68202a0800000000000000
+      internalID: -6772702538244866352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_20
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1875
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbc611e85305cf60800000000000000
+      internalID: 8053847188890373067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1875
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9422846eb92b45eb0800000000000000
+      internalID: -4731960925806386615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_22
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1875
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2de1ad95ef28b310800000000000000
+      internalID: 1420938345674042668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_23
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1875
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a3720fd4bdd2ad0800000000000000
+      internalID: -2725281071701214663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_24
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1875
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f8fb777a6bd1c30800000000000000
+      internalID: 4331819246985121577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_25
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1875
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2df8784209798d0800000000000000
+      internalID: -2839642553466236242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_26
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1875
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbb04bbf0753b610800000000000000
+      internalID: 1635746814743329791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5d36e2a88214d50800000000000000
+      internalID: 6719696692962383296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_28
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1500
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8864762ff02ac4b0800000000000000
+      internalID: -5419482921353058166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1500
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed925b90eaa9bb70800000000000000
+      internalID: 8915344819011886570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_30
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ea7343c1dbd5f0800000000000000
+      internalID: -730759877936619493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_31
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1500
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4efed25f48b3610800000000000000
+      internalID: 1602020281032893658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_32
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1500
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5405f683673b02730800000000000000
+      internalID: 3972372191675109445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_33
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1500
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffff7f532e37a25a0800000000000000
+      internalID: -6545291693024346113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_34
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1500
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c642d4fbaa06b0800000000000000
+      internalID: -5329258141051338371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_35
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1500
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fd43f0509eb0310800000000000000
+      internalID: 1372446719403679516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1125
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a528ca29e7037f20800000000000000
+      internalID: 3419085240130872737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1125
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa53c7f15adad630800000000000000
+      internalID: 3952711668555012857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_38
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1125
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49b80793e4e6bd10800000000000000
+      internalID: 2141150339003889996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_39
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1125
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b863bcffa19a69d40800000000000000
+      internalID: 5590841920852801163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_40
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1125
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181a4510c194bd440800000000000000
+      internalID: 4961639799108968833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_41
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1125
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5399127151a7bf7d0800000000000000
+      internalID: -2883576905399690955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_42
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1125
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f9e1e2237515890800000000000000
+      internalID: -7471094433797202129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_43
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1125
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764372d090f78c1d0800000000000000
+      internalID: -3330272247588375449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_44
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1125
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef7db301ae4a4b90800000000000000
+      internalID: -7256901396094681110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05fe0f55dd140e00800000000000000
+      internalID: 1009965018697889039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 750
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fde94830762148a0800000000000000
+      internalID: -6322730138428903944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_47
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 750
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0181ff43e165ca80800000000000000
+      internalID: -8447237897136799475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_48
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 750
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9da9aba503ad2af0800000000000000
+      internalID: -419499945525400162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_49
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 750
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fe70c12e4698e60800000000000000
+      internalID: 7965008338277101327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_50
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 750
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4ec04dd0d4e1170800000000000000
+      internalID: 8151037097374704818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_51
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 750
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0693f43aec371aeb0800000000000000
+      internalID: -4710356403912492704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_52
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 750
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f988d2ab109c8920800000000000000
+      internalID: 2993926300665154033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_53
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 750
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60e0c5dfeec8e3b0800000000000000
+      internalID: -5482905016844885905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88605684e9803a010800000000000000
+      internalID: 1198811401723119240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 375
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91e912f87ad04d40800000000000000
+      internalID: 5566689352422646170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_56
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 375
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21043dec96922d030800000000000000
+      internalID: 3517919793348034578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_57
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 375
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b33b98fe63fcdb0800000000000000
+      internalID: -4769533077926757535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 375
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b927b5a54097dd60800000000000000
+      internalID: 7914953498934323640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_59
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 375
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5ebc1b579ffcc00800000000000000
+      internalID: 923230732523660710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_60
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 375
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb7c7bb6e3fe8e00800000000000000
+      internalID: 1049043935537429441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_61
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 375
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c13c2e02ddcdcb0800000000000000
+      internalID: -4837748766389625723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_62
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 375
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87849fe7d465f2ae0800000000000000
+      internalID: -1571942854086277000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee24d7f463853ecc0800000000000000
+      internalID: -3683003079973846290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_64
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280178a6abcf32010800000000000000
+      internalID: 1163051006373073026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2a233468e1742e0800000000000000
+      internalID: -2141709535789538579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_66
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c8018769e91da20800000000000000
+      internalID: 3085421588822133907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrangePortalSprites_67
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5369be353d8116080800000000000000
+      internalID: -9196041668188727755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d1df2e85bfd3b274584bfe09f91e504c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,7 +7,7 @@ public class Group : MonoBehaviour
 
     float lastFall = 0;
 
-    bool isValidGridPos()
+    public bool isValidGridPos()
     {
         foreach (Transform child in transform)
         {
@@ -26,7 +26,7 @@ public class Group : MonoBehaviour
     }
 
 
-    void updateGrid()
+    public void updateGrid()
     {
         //remove old children from grid
         for (int y = 0; y < Playfield.h; ++y)
@@ -43,13 +43,33 @@ public class Group : MonoBehaviour
         }
     }
 
+    void mixColors()
+    {
+        Color c = new Color(Random.Range(0f, 1f), Random.Range(0f, 1f), Random.Range(0f, 1f));
+        foreach (SpriteRenderer spriteRenderer in transform.GetComponentsInChildren<SpriteRenderer>())
+        {
+            spriteRenderer.color = c;
+        }
+    }
+
     // Start is called before the first frame update
     void Start()
     {
+
+        mixColors();
+
         if (!isValidGridPos())
         {
-            Debug.Log("Game Over");
+        //Game Over stuff
+            Debug.Log("Game Over cause by: " + gameObject.transform.name);
+            Time.timeScale = 1f;
+            GameObject.FindGameObjectWithTag("UI/GameOverTetris").transform.GetChild(0).gameObject.SetActive(true);
+            Cursor.lockState = CursorLockMode.None;
+            Cursor.visible = true;
+            //Game Over stuff
+
             Destroy(gameObject);
+        
         }
     }
 
@@ -57,7 +77,7 @@ public class Group : MonoBehaviour
     void Update()
     {
         //Move Left
-        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        if (Input.GetKeyDown(KeyCode.LeftArrow) || Input.GetKeyDown(KeyCode.A))
         {
             //modify position
             transform.position += new Vector3(-1, 0, 0);
@@ -77,7 +97,7 @@ public class Group : MonoBehaviour
 
 
         //Move Right
-        if (Input.GetKeyDown(KeyCode.RightArrow))
+        if (Input.GetKeyDown(KeyCode.RightArrow) || Input.GetKeyDown(KeyCode.D))
         {
             //modify position
             transform.position += new Vector3(1, 0, 0);
@@ -97,7 +117,7 @@ public class Group : MonoBehaviour
 
 
         //Rotate
-        if (Input.GetKeyDown(KeyCode.UpArrow))
+        if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W))
         {
             //Rotate
             transform.Rotate(0, 0, -90);
@@ -116,7 +136,7 @@ public class Group : MonoBehaviour
         }
 
         //Move Downwards and Fall
-        if (Input.GetKeyDown(KeyCode.DownArrow) || Time.time - lastFall >=1)
+        if (Input.GetKeyDown(KeyCode.DownArrow) || Input.GetKeyDown(KeyCode.S) || Time.time - lastFall >=1)
         {
             //Rotate
             transform.position += new Vector3(0, -1, 0);
@@ -140,6 +160,9 @@ public class Group : MonoBehaviour
 
                 //disable script
                 enabled = false;
+
+                //change Tag
+                //gameObject.tag = "Untagged";
             }
             lastFall = Time.time;
         }
