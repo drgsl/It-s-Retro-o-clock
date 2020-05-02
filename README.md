@@ -11,6 +11,8 @@
 
 Demo-ul jocului este prezent pe canalul nostru de [**Youtube**](https://youtu.be/ba9x88ixokk)
 
+[![](https://img.youtube.com/vi/ba9x88ixokk/0.jpg)](https://www.youtube.com/watch?v=ba9x88ixokk)
+
 ## De unde îl pot juca?
 
 De aici: https://drive.google.com/open?id=1TTMojPvvvlHgE2aoLw0JYRJnNa0RPzTK
