@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/BobuDragos/FiiCode-2020/blob/master/Assets/_Sprites/retro%20o'clock2.png" width="30%" /></p>
+<p align="center"><img src="https://github.com/BobuDragos/FiiCode-2020/blob/final2/Assets/_Screenshots/Youtube%20Thumbnail1080p2.png" width="30%" /></p>
 
 # RETRO O'CLOCK
 
