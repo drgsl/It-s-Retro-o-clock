@@ -57,6 +57,11 @@ TagManager:
   - Mario/Blocks/FinalFlag
   - Mario/EnterCastle
   - Portal/PortalGun
+  - Hexagone/Tile
+  - Fire
+  - Hexagone/BottomLayer
+  - Hexagone/Wall
+  - Trigger/City/Hexa-Gone
   layers:
   - Default
   - TransparentFX
