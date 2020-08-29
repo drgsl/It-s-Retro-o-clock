@@ -8,6 +8,7 @@ public class ThirdPersonMovement : MonoBehaviour
     public CharacterController controller;
     public Transform cam;
     Animator anim;
+    AudioSource source; 
 
     public float speed = 6;
 
@@ -29,6 +30,9 @@ public class ThirdPersonMovement : MonoBehaviour
     {
         Cursor.lockState = CursorLockMode.Locked;
         anim = GetComponentInChildren<Animator>();
+
+        source = GameObject.FindGameObjectWithTag("Hexagone/ClickSound").GetComponent<AudioSource>();
+
     }
 
     void Update()
@@ -76,6 +80,8 @@ public class ThirdPersonMovement : MonoBehaviour
         if (hit.gameObject.CompareTag("Hexagone/Tile"))
         {
             hit.gameObject.GetComponent<TileScript>().hasBeenTouched = true;
+
+            source.PlayOneShot(source.clip);
         }
 
         if (hit.gameObject.CompareTag("Hexagone/BottomLayer"))

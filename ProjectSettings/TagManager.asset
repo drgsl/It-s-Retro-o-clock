@@ -62,6 +62,7 @@ TagManager:
   - Hexagone/BottomLayer
   - Hexagone/Wall
   - Trigger/City/Hexa-Gone
+  - Hexagone/ClickSound
   layers:
   - Default
   - TransparentFX

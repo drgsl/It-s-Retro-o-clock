@@ -9,7 +9,7 @@ public class TileScript : MonoBehaviour
     Renderer render;
     //Rigidbody rb;
     Animator anim;
-    AudioSource source; 
+    //AudioSource source; 
 
     public bool hasBeenTouched = false;
 
@@ -27,7 +27,7 @@ public class TileScript : MonoBehaviour
         block = new MaterialPropertyBlock();
         //rb = GetComponent<Rigidbody>();
         anim = transform.GetComponentInParent<Animator>();
-        source = GetComponent<AudioSource>();
+        //source = GameObject.FindGameObjectWithTag("Hexagone/ClickSound").GetComponent<AudioSource>();
 
         randColor = Random.ColorHSV(0, 1, 0, 1, 0.8f, 1f);
 
@@ -44,7 +44,7 @@ public class TileScript : MonoBehaviour
     {
         if (hasBeenTouched)
         {
-            source.PlayOneShot(source.clip);
+            //source.PlayOneShot(source.clip);
             randColor = Color.Lerp(randColor, Color.red, 0.01f);
             block.SetColor("_BaseColor", randColor);
             block.SetColor("_EmissionColor", randColor);
